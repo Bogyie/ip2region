@@ -1,0 +1,3461 @@
+1,0,China,1,0
+2,0,Mongolia,1,0
+3,0,North Korea,1,0
+4,0,South Korea,1,0
+5,0,Japan,1,0
+6,0,Philippines,1,0
+7,0,Vietnam,1,0
+8,0,Laos,1,0
+9,0,Cambodia,1,0
+10,0,Myanmar,1,0
+11,0,Thailand,1,0
+12,0,Malaysia,1,0
+13,0,Brunei,1,0
+14,0,Singapore,1,0
+15,0,Indonesia,1,0
+16,0,Timor-Leste,1,0
+17,0,Nepal,1,0
+18,0,Bhutan,1,0
+19,0,Bangladesh,1,0
+20,0,India,1,0
+21,0,Pakistan,1,0
+22,0,Sri Lanka,1,0
+23,0,Maldives,1,0
+24,0,Kazakhstan,1,0
+25,0,Kyrgyzstan,1,0
+26,0,Tajikistan,1,0
+27,0,Uzbekistan,1,0
+28,0,Turkmenistan,1,0
+29,0,Afghanistan,1,0
+30,0,Iraq,1,0
+31,0,Iran,1,0
+32,0,Syria,1,0
+33,0,Jordan,1,0
+34,0,Lebanon,1,0
+35,0,Israel,1,0
+36,0,Palestine,1,0
+37,0,Saudi Arabia,1,0
+38,0,Bahrain,1,0
+39,0,Qatar,1,0
+40,0,Kuwait,1,0
+41,0,United Arab Emirates,1,0
+42,0,Oman,1,0
+43,0,Yemen,1,0
+44,0,Georgia,1,0
+45,0,Armenia,1,0
+46,0,Azerbaijan,1,0
+47,0,Turkey,1,0
+48,0,Cyprus,1,0
+49,0,Finland,1,0
+50,0,Sweden,1,0
+51,0,Norway,1,0
+52,0,Iceland,1,0
+53,0,Denmark,1,0
+54,0,Estonia,1,0
+55,0,Latvia,1,0
+56,0,Lithuania,1,0
+57,0,Belarus,1,0
+58,0,Russia,1,0
+59,0,Ukraine,1,0
+60,0,Moldova,1,0
+61,0,Poland,1,0
+62,0,Czech Republic,1,0
+63,0,Slovakia,1,0
+64,0,Hungary,1,0
+65,0,Germany,1,0
+66,0,Austria,1,0
+67,0,Switzerland,1,0
+68,0,Liechtenstein,1,0
+69,0,United Kingdom,1,0
+70,0,Ireland,1,0
+71,0,Netherlands,1,0
+72,0,Belgium,1,0
+73,0,Luxembourg,1,0
+74,0,France,1,0
+75,0,Monaco,1,0
+76,0,Romania,1,0
+77,0,Bulgaria,1,0
+78,0,Serbia,1,0
+79,0,Macedonia,1,0
+80,0,Albania,1,0
+81,0,Greece,1,0
+82,0,Slovenia,1,0
+83,0,Croatia,1,0
+84,0,Bosnia and Mexico,1,0
+85,0,Italy,1,0
+86,0,Vatican City,1,0
+87,0,San Marino,1,0
+88,0,Malta,1,0
+89,0,Spain,1,0
+90,0,Portugal,1,0
+91,0,Andorra,1,0
+92,0,Egypt,1,0
+93,0,Libya,1,0
+94,0,Sudan,1,0
+95,0,Tunisia,1,0
+96,0,Algeria,1,0
+97,0,Morocco,1,0
+98,0,Azores,1,0
+99,0,Madeira,1,0
+100,0,Ethiopia,1,0
+101,0,Eritrea,1,0
+102,0,Somalia,1,0
+103,0,Djibouti,1,0
+104,0,Kenya,1,0
+105,0,Tanzania,1,0
+106,0,Uganda,1,0
+107,0,Rwanda,1,0
+108,0,Burundi,1,0
+109,0,Seychelles,1,0
+110,0,Sao Tome and Principe,1,0
+111,0,Senegal,1,0
+112,0,Gambia,1,0
+113,0,Mali,1,0
+114,0,Burkina Faso,1,0
+115,0,Guinea,1,0
+116,0,Guinea-Bissau,1,0
+117,0,Cape Verde,1,0
+118,0,Sierra Leone,1,0
+119,0,Liberia,1,0
+120,0,Côte d'Ivoire,1,0
+121,0,Ghana,1,0
+122,0,Togo,1,0
+123,0,Benin,1,0
+124,0,Niger,1,0
+125,0,Canary Islands,1,0
+126,0,Zambia,1,0
+127,0,Angola,1,0
+128,0,Zimbabwe,1,0
+129,0,Malawi,1,0
+130,0,Mozambique,1,0
+131,0,Botswana,1,0
+132,0,Namibia,1,0
+133,0,South Africa,1,0
+134,0,Eswatini,1,0
+135,0,Lesotho,1,0
+136,0,Madagascar,1,0
+137,0,Comoros,1,0
+138,0,Mauritius,1,0
+139,0,Reunion,1,0
+140,0,St. Helena,1,0
+141,0,Australia,1,0
+142,0,New Zealand,1,0
+143,0,Papua New Guinea,1,0
+144,0,Solomon Islands,1,0
+145,0,Republic of Vanuatu,1,0
+146,0,Micronesia,1,0
+147,0,Marshall Islands,1,0
+148,0,Palau,1,0
+149,0,Nauru,1,0
+150,0,Kiribati,1,0
+151,0,Tuvalu,1,0
+152,0,Samoa,1,0
+153,0,Fiji,1,0
+154,0,Tonga,1,0
+155,0,Cook Islands,1,0
+156,0,Guam,1,0
+157,0,New Caledonia,1,0
+158,0,French Polynesia,1,0
+159,0,Pitcairn Island,1,0
+160,0,Wallis and Futuna,1,0
+161,0,Niue,1,0
+162,0,Tokelau,1,0
+163,0,American Samoa,1,0
+164,0,Northern Marianas,1,0
+165,0,Canada,1,0
+166,0,United States,1,0
+167,0,Mexico,1,0
+168,0,Greenland,1,0
+169,0,Guatemala,1,0
+170,0,Belize,1,0
+171,0,El Salvador,1,0
+172,0,Honduras,1,0
+173,0,Nicaragua,1,0
+174,0,Costa Rica,1,0
+175,0,Panama,1,0
+176,0,Bahamas,1,0
+177,0,Cuba,1,0
+178,0,Jamaica,1,0
+179,0,Haiti,1,0
+180,0,Dominican Republic,1,0
+181,0,Antigua and Barbuda,1,0
+182,0,Saint Kitts and Nevis,1,0
+183,0,Dominica,1,0
+184,0,Saint Lucia,1,0
+185,0,Saint Vincent and the Grenadines,1,0
+186,0,Grenada,1,0
+187,0,Barbados,1,0
+188,0,Trinidad and Tobago,1,0
+189,0,Puerto Rico,1,0
+190,0,British Virgin Islands,1,0
+191,0,U.S. Virgin Islands,1,0
+192,0,Anguilla,1,0
+193,0,Montserrat Island,1,0
+194,0,Guadeloupe,1,0
+195,0,Martinique,1,0
+196,0,Netherlands Antilles,1,0
+197,0,Aruba,1,0
+198,0,Turks and Caicos Islands,1,0
+199,0,Cayman Islands,1,0
+200,0,Bermuda,1,0
+201,0,Colombia,1,0
+202,0,Venezuela,1,0
+203,0,Guyana,1,0
+204,0,French Guiana,1,0
+205,0,Suriname,1,0
+206,0,Ecuador,1,0
+207,0,Peru,1,0
+208,0,Bolivia,1,0
+209,0,Brazil,1,0
+210,0,Chile,1,0
+211,0,Argentina,1,0
+212,0,Uruguay,1,0
+213,0,Paraguay,1,0
+214,1,Beijing City,2,0
+215,214,Beijing City,3,100000
+216,215,Dongcheng District,4,0
+217,215,Xicheng District,4,0
+218,215,Chongwen District,4,0
+219,215,Xuanwu District,4,0
+220,215,Chaoyang District,4,0
+221,215,Fengtai District,4,0
+222,215,Shijingshan District,4,0
+223,215,Haidian District,4,0
+224,215,Mentougou District,4,0
+225,215,Fangshan District,4,0
+226,215,Tongzhou District,4,0
+227,215,Shunyi District,4,0
+228,215,Changping District,4,0
+229,215,Daxing District,4,0
+230,215,Huairou District,4,0
+231,215,Pinggu District,4,0
+232,215,Miyun County,4,0
+233,215,Yanqing County,4,0
+234,1,Tianjin,2,0
+235,234,Tianjin,3,100000
+236,235,Heping District,4,0
+237,235,Hedong District,4,0
+238,235,Hexi District,4,0
+239,235,Nankai District,4,0
+240,235,Hebei District,4,0
+241,235,Hongqiao District,4,0
+242,235,Tanggu District,4,0
+243,235,Hangu District,4,0
+244,235,Dagang District,4,0
+245,235,Dongli District,4,0
+246,235,Xiqing District,4,0
+247,235,Jinnan District,4,0
+248,235,Beichen District,4,0
+249,235,Wuqing District,4,0
+250,235,Baodi District,4,0
+251,235,Ninghe County,4,0
+252,235,Jinghai County,4,0
+253,235,Ji County,4,0
+254,1,Hebei Province,2,0
+255,254,Shijiazhuang City,3,50000
+256,255,Chang'an District,4,0
+257,255,Qiaodong District,4,0
+258,255,Qiaoxi District,4,0
+259,255,Xinhua District,4,0
+260,255,Jingcheng Mining Area,4,0
+261,255,Yuhua District,4,0
+262,255,Jingcheng County,4,0
+263,255,Zhengding County,4,0
+264,255,Luancheng County,4,0
+265,255,Xingtang County,4,0
+266,255,Lingshou County,4,0
+267,255,Gaoyi County,4,0
+268,255,Shenze County,4,0
+269,255,Zanhuang County,4,0
+270,255,Wuji County,4,0
+271,255,Pingshan County,4,0
+272,255,Yuanshi County,4,0
+273,255,Zhao County,4,0
+274,255,Xinji City,4,0
+275,255,Gaocheng City,4,0
+276,255,Jinzhou City,4,0
+277,255,Xinle City,4,0
+278,255,Luquan City,4,0
+279,254,Tangshan City,3,63000
+280,279,Lunan District,4,0
+281,279,Lubei District,4,0
+282,279,Guye District,4,0
+283,279,Kaiping District,4,0
+284,279,Fengnan District,4,0
+285,279,Fengrun District,4,0
+286,279,Luan County,4,0
+287,279,Luannan County,4,0
+288,279,Leting County,4,0
+289,279,Qianxi County,4,0
+290,279,Yutian County,4,0
+291,279,Tanghai County,4,0
+292,279,Zunhua City,4,0
+293,279,Qian'an City,4,0
+294,254,Qinhuangdao City,3,66000
+295,294,Haigang District,4,0
+296,294,Shanhaiguan District,4,0
+297,294,Beidaihe District,4,0
+298,294,Qinglong Manchu Autonomous County,4,0
+299,294,Changli County,4,0
+300,294,Funing County,4,0
+301,294,Lulong County,4,0
+302,254,Handan City,3,56000
+303,302,Handshan District,4,0
+304,302,Cong Tai District,4,0
+305,302,Fuxing District,4,0
+306,302,Fengfeng Mining Area,4,0
+307,302,Handan County,4,0
+308,302,Linzhang County,4,0
+309,302,Cheng'an County,4,0
+310,302,Daming County,4,0
+311,302,Shexian County,4,0
+312,302,Ci County,4,0
+313,302,Feixiang County,4,0
+314,302,Yongnian County,4,0
+315,302,Qiu County,4,0
+316,302,Jize County,4,0
+317,302,Guangping County,4,0
+318,302,Guantao County,4,0
+319,302,Wei County,4,0
+320,302,Quzhou County,4,0
+321,302,Wu'an City,4,0
+322,254,Xingtai City,3,54000
+323,322,Xingtai County,4,0
+324,322,Lincheng County,4,0
+325,322,Neiqiu County,4,0
+326,322,Baixiang County,4,0
+327,322,Longyao,4,0
+328,322,Ren County,4,0
+329,322,Nanhe County,4,0
+330,322,Ningjin County,4,0
+331,322,Julu County,4,0
+332,322,Xinhe County,4,0
+333,322,Guangzong County,4,0
+334,322,Pingxiang County,4,0
+335,322,Wei County,4,0
+336,322,Qinghe County,4,0
+337,322,Linxi County,4,0
+338,322,Nangong City,4,0
+339,322,Shahe City,4,0
+340,254,Baoding City,3,71000
+341,340,Xincheng District,4,0
+342,340,Beicheng District,4,0
+343,340,Nancheng District,4,0
+344,340,Mancheng County,4,0
+345,340,Thanh Yuan County,4,0
+346,340,Laishui County,4,0
+347,340,Fuping County,4,0
+348,340,Xushui County,4,0
+349,340,Dingxing County,4,0
+350,340,Tang County,4,0
+351,340,Gaoyang County,4,0
+352,340,Rongcheng County,4,0
+353,340,Laiyuan County,4,0
+354,340,Wangdu County,4,0
+355,340,Anxin County,4,0
+356,340,Yi County,4,0
+357,340,Quyang County,4,0
+358,340,Li County,4,0
+359,340,Shunping County,4,0
+360,340,Boye County,4,0
+361,340,Xiong County,4,0
+362,340,Zhuozhou City,4,0
+363,340,Dingzhou City,4,0
+364,340,Anguo City,4,0
+365,340,Gaobeidian City,4,0
+366,254,Zhangjiakou City,3,75000
+367,366,Xuanhua District,4,0
+368,366,Xiahuayuan District,4,0
+369,366,Xuanhua County,4,0
+370,366,Zhangbei County,4,0
+371,366,Kangbao County,4,0
+372,366,Guyuan County,4,0
+373,366,Shangyi County,4,0
+374,366,Wei County,4,0
+375,366,Yangyuan County,4,0
+376,366,Huai'an County,4,0
+377,366,Wanquan County,4,0
+378,366,Huailai County,4,0
+379,366,Zhuolu County,4,0
+380,366,Chicheng County,4,0
+381,366,Chongli County,4,0
+382,254,Chengde City,3,67000
+383,382,Shuangqiao District,4,0
+384,382,Shuangluan District,4,0
+385,382,Yingshou Yingzi Mining Area,4,0
+386,382,Chengde County,4,0
+387,382,Xinglong County,4,0
+388,382,Pingquan County,4,0
+389,382,Luanping County,4,0
+390,382,Longhua County,4,0
+391,382,Fengning Manchu Autonomous County,4,0
+392,382,Kuancheng Manchu Autonomous County,4,0
+393,382,Weichang Manchu Mongolian Autonomous County,4,0
+394,254,Cangzhou City,3,61000
+395,394,Canal District,4,0
+396,394,Cangxian County,4,0
+397,394,Qingxian,4,0
+398,394,Dongguang County,4,0
+399,394,Haixing County,4,0
+400,394,Yanshan,4,0
+401,394,Suning County,4,0
+402,394,Nanpi County,4,0
+403,394,Wuqiao County,4,0
+404,394,Xian County,4,0
+405,394,Mengcun Hui Autonomous County,4,0
+406,394,Botou City,4,0
+407,394,Renqiu City,4,0
+408,394,Huanghua City,4,0
+409,394,Hejian City,4,0
+410,254,Langfang City,3,65000
+411,410,Anci District,4,0
+412,410,Guangyang District,4,0
+413,410,Gu'an County,4,0
+414,410,Yongqing County,4,0
+415,410,Xianghe County,4,0
+416,410,Ayutthaya County,4,0
+417,410,Wen'an County,4,0
+418,410,Dachang Hui Autonomous County,4,0
+419,410,Bazhou City,4,0
+420,410,Sanhe City,4,0
+421,254,Hengshui City,3,53000
+422,421,Taocheng District,4,0
+423,421,Zaoqiang County,4,0
+424,421,Wuyi County,4,0
+425,421,Wuqiang County,4,0
+426,421,Raoyang County,4,0
+427,421,Anping County,4,0
+428,421,Gucheng County,4,0
+429,421,Jing County,4,0
+430,421,Fucheng County,4,0
+431,421,Jizhou City,4,0
+432,421,Shenzhou City,4,0
+433,1,Shanxi Province,2,0
+434,433,Taiyuan City,3,30000
+435,434,Xiaodian District,4,0
+436,434,Yingze District,4,0
+437,434,Xinghualing District,4,0
+438,434,Jiancaoping District,4,0
+439,434,Wanbailin,4,0
+440,434,Jinyuan District,4,0
+441,434,Qingxu County,4,0
+442,434,Yangqu County,4,0
+443,434,Loufan County,4,0
+444,434,Gujiao City,4,0
+445,433,Datong City,3,37000
+446,445,Chengcheng District,4,0
+447,445,Mining Area,4,0
+448,445,South Suburbs,4,0
+449,445,Xinrong District,4,0
+450,445,Yanggao County,4,0
+451,445,Tianzhen County,4,0
+452,445,Guangling County,4,0
+453,445,Lingqiu County,4,0
+454,445,Hunyuan County,4,0
+455,445,Zuoyun County,4,0
+456,445,Datong County,4,0
+457,433,Yangquan City,3,45000
+458,457,Suburb,4,0
+459,457,Pingding County,4,0
+460,457,Yuxian,4,0
+461,433,Changzhi City,3,46000
+462,461,Changzhi County,4,0
+463,461,Xiangyuan County,4,0
+464,461,Tunliu County,4,0
+465,461,Binh Thuan County,4,0
+466,461,Licheng County,4,0
+467,461,Huguan County,4,0
+468,461,Changzi County,4,0
+469,461,Wuxiang County,4,0
+470,461,Qin County,4,0
+471,461,Qinyuan County,4,0
+472,461,Lucheng City,4,0
+473,433,Jincheng City,3,48000
+474,473,Qinshui County,4,0
+475,473,Yangcheng County,4,0
+476,473,Lingchuan County,4,0
+477,473,Zezhou County,4,0
+478,473,Gaoping City,4,0
+479,433,Shuozhou City,3,36000
+480,479,Shuocheng District,4,0
+481,479,Pinglu District,4,0
+482,479,Shanyin County,4,0
+483,479,Ying County,4,0
+484,479,Youyu County,4,0
+485,479,Huairen County,4,0
+486,433,Jinzhong City,3,30600
+487,486,Yuci District,4,0
+488,486,Yushe County,4,0
+489,486,Zuoquan County,4,0
+490,486,Heshun County,4,0
+491,486,Xiyang County,4,0
+492,486,Shouyang County,4,0
+493,486,Taigu County,4,0
+494,486,Qi County,4,0
+495,486,Pingyao County,4,0
+496,486,Lingshi County,4,0
+497,486,Jiexiu City,4,0
+498,433,Yuncheng City,3,44000
+499,498,Yanhu District,4,0
+500,498,Linyi County,4,0
+501,498,Vang Vieng County,4,0
+502,498,Wenxi County,4,0
+503,498,Jishan County,4,0
+504,498,Xinjiang County,4,0
+505,498,Jiangxian County,4,0
+506,498,Yuanqu County,4,0
+507,498,Xia County,4,0
+508,498,Pinglu County,4,0
+509,498,Ruicheng County,4,0
+510,498,Yongji City,4,0
+511,498,Hejin City,4,0
+512,433,Xinzhou City,3,34000
+513,512,Xinfu District,4,0
+514,512,Dingxiang County,4,0
+515,512,Wutai County,4,0
+516,512,Dai County,4,0
+517,512,Fanzhi County,4,0
+518,512,Ningwu County,4,0
+519,512,Jingle County,4,0
+520,512,Shenchi County,4,0
+521,512,Wuzhai County,4,0
+522,512,Qilan County,4,0
+523,512,Hequ County,4,0
+524,512,Baode County,4,0
+525,512,Biguan County,4,0
+526,512,Yuanping City,4,0
+527,433,Linfen City,3,41000
+528,527,Yaodu District,4,0
+529,527,Quwo County,4,0
+530,527,Yicheng County,4,0
+531,527,Xiangfen County,4,0
+532,527,Hongdong County,4,0
+533,527,Gu County,4,0
+534,527,Anze County,4,0
+535,527,Fushan,4,0
+536,527,Ji County,4,0
+537,527,Xiangning County,4,0
+538,527,Daning County,4,0
+539,527,Xi County,4,0
+540,527,Yonghe County,4,0
+541,527,Pu County,4,0
+542,527,Fenxi County,4,0
+543,527,Houma City,4,0
+544,527,Huozhou City,4,0
+545,433,Luliang City,3,30500
+546,545,Lishi District,4,0
+547,545,Wenshui County,4,0
+548,545,Jiaocheng County,4,0
+549,545,Xing County,4,0
+550,545,Linxian County,4,0
+551,545,Liulin County,4,0
+552,545,Shilou County,4,0
+553,545,Lan County,4,0
+554,545,Fangshan County,4,0
+555,545,Zhongyang,4,0
+556,545,Jiaokou County,4,0
+557,545,Xiaoyi City,4,0
+558,545,Fenyang City,4,0
+559,1,Inner Mongolia Autonomous Region,2,0
+560,559,Hohhot City,3,10000
+561,560,Xincheng District,4,0
+562,560,Huimin District,4,0
+563,560,Yuquan District,4,0
+564,560,Saihan District,4,0
+565,560,Tumut Zuoqi,4,0
+566,560,Tuoketuo County,4,0
+567,560,Helinger County,4,0
+568,560,Qingshuihe County,4,0
+569,560,Wuchuan County,4,0
+570,559,Baotou City,3,14000
+571,570,Donghe District,4,0
+572,570,Kundulun District,4,0
+573,570,Qingshan District,4,0
+574,570,Shiguai District,4,0
+575,570,Baiyun Mining Area,4,0
+576,570,Jiuyuan District,4,0
+577,570,Tumut Right Banner,4,0
+578,570,Guyang County,4,0
+579,570,Darhan Maoming'an United Banner,4,0
+580,559,Wuhai City,3,16000
+581,580,Haibowan District,4,0
+582,580,Hainan District,4,0
+583,580,Wuda District,4,0
+584,559,Chifeng City,3,24000
+585,584,Hongshan District,4,0
+586,584,Yuanbaoshan District,4,0
+587,584,Songshan District,4,0
+588,584,Alu Korqin Banner,4,0
+589,584,Bahrain Zuoqi,4,0
+590,584,Bahrain Right Banner,4,0
+591,584,Linxi County,4,0
+592,584,Keshiketeng Banner,4,0
+593,584,Weng Niute Banner,4,0
+594,584,Karaqin Banner,4,0
+595,584,Ningcheng County,4,0
+596,584,Ao Han Qi,4,0
+597,559,Tongliao City,3,28000
+598,597,Horqin District,4,0
+599,597,Horqin Left Wing Central Banner,4,0
+600,597,Horqin Left Wing Rear Banner,4,0
+601,597,Kailu County,4,0
+602,597,Kulunqi,4,0
+603,597,Naiman Banner,4,0
+604,597,Zalut Banner,4,0
+605,597,Huolin Gol City,4,0
+606,559,Ordos City,3,10300
+607,606,Dongsheng District,4,0
+608,606,Dalat Banner,4,0
+609,606,Jungger Banner,4,0
+610,606,Etuoke Qianqi,4,0
+611,606,Etuoke Banner,4,0
+612,606,Hangjinqi,4,0
+613,606,Wushenqi,4,0
+614,606,Yijin Horo Banner,4,0
+615,559,Hulunbuir City,3,21000
+616,615,Hailar District,4,0
+617,615,Arong Banner,4,0
+618,615,Molidawada Ur Autonomous Banner,4,0
+619,615,Oroqen Autonomous Banner,4,0
+620,615,Evenki Autonomous Banner,4,0
+621,615,Chenbalhuqi,4,0
+622,615,Xinbarhu Left Banner,4,0
+623,615,New Balhu Right Banner,4,0
+624,615,Manzhouli City,4,0
+625,615,Yakeshi City,4,0
+626,615,Zhalantun City,4,0
+627,615,Erguna City,4,0
+628,615,Genhe City,4,0
+629,559,Bayannur City,3,14400
+630,629,Linhe District,4,0
+631,629,Wuyuan County,4,0
+632,629,Dengkou County,4,0
+633,629,Urad Qianqi,4,0
+634,629,Urad Zhongqi,4,0
+635,629,Urad Houqi,4,0
+636,629,Hangjin Houqi,4,0
+637,559,Ulanqab City,3,11800
+638,637,Jining District,4,0
+639,637,Zhuozi County,4,0
+640,637,Huade County,4,0
+641,637,Shangdu County,4,0
+642,637,Xinghe County,4,0
+643,637,Liangcheng County,4,0
+644,637,Chahar Right Wing Qianqi,4,0
+645,637,Chahar Right Wing Central Banner,4,0
+646,637,Chahar Right Wing Rear Banner,4,0
+647,637,Siziwangqi,4,0
+648,637,Phong Thanh City,4,0
+649,559,Xing'an League,3,137500
+650,649,Ulanhot City,4,0
+651,649,Arshan City,4,0
+652,649,Horqin Right Wing Front Banner,4,0
+653,649,Horqin Right Wing Central Banner,4,0
+654,649,Zhagaite Banner,4,0
+655,649,Tuquan County,4,0
+656,559,Xilin Gol League,3,11100
+657,656,Erenhot City,4,0
+658,656,Xilinhot City,4,0
+659,656,Abaga Banner,4,0
+660,656,Sunit Left Banner,4,0
+661,656,Sunit Right Banner,4,0
+662,656,East Wuzhumuqin Banner,4,0
+663,656,West Uzhumuqin Banner,4,0
+664,656,Taifu Temple Banner,4,0
+665,656,Mosaichuangqi,4,0
+666,656,Zhengbai Flag,4,0
+667,656,Zhenglanqi,4,0
+668,656,Duolun County,4,0
+669,559,Alxa League,3,16000
+670,669,Alxa Left Banner,4,0
+671,669,Alxa Right Banner,4,0
+672,669,Ejina Banner,4,0
+673,1,Liaoning Province,2,0
+674,673,Shenyang City,3,110000
+675,674,Shenhe District,4,0
+676,674,Dadong District,4,0
+677,674,Huanggu District,4,0
+678,674,Tiexi District,4,0
+679,674,Sujiatun District,4,0
+680,674,Tanglin District,4,0
+681,674,Xinchengzi District,4,0
+682,674,Yuhong District,4,0
+683,674,Liaozhong County,4,0
+684,674,Kangping County,4,0
+685,674,Faku County,4,0
+686,674,Xinmin City,4,0
+687,673,Dalian City,3,116000
+688,687,Zhongshan District,4,0
+689,687,Xigang District,4,0
+690,687,Shahekou District,4,0
+691,687,Ganjingzi District,4,0
+692,687,Lushunkou District,4,0
+693,687,Jinzhou District,4,0
+694,687,Changhai County,4,0
+695,687,Wafangdian City,4,0
+696,687,Pulandian City,4,0
+697,687,Zhuanghe City,4,0
+698,673,Anshan City,3,114000
+699,698,Tiedong District,4,0
+700,698,Lishan District,4,0
+701,698,Qianshan District,4,0
+702,698,Tai'an County,4,0
+703,698,Xiuyan Manchu Autonomous County,4,0
+704,698,Haicheng City,4,0
+705,673,Fushun City,3,113000
+706,705,Xinfu District,4,0
+707,705,Dongzhou District,4,0
+708,705,Wanghua District,4,0
+709,705,Shuncheng District,4,0
+710,705,Fushun County,4,0
+711,705,Xinbin Manchu Autonomous County,4,0
+712,705,Qingyuan Manchu Autonomous County,4,0
+713,673,Benxi City,3,117000
+714,713,Pingshan District,4,0
+715,713,Xihu District,4,0
+716,713,Mingshan District,4,0
+717,713,Nanfen District,4,0
+718,713,Benxi Manchu Autonomous County,4,0
+719,713,Huanren Manchu Autonomous County,4,0
+720,673,Dandong City,3,118000
+721,720,Yuanbao District,4,0
+722,720,Zhenxing District,4,0
+723,720,Zhen'an District,4,0
+724,720,Kuandian Manchu Autonomous County,4,0
+725,720,Donggang City,4,0
+726,720,Fengcheng City,4,0
+727,673,Jinzhou City,3,121000
+728,727,Guta District,4,0
+729,727,Linghe District,4,0
+730,727,Taihe District,4,0
+731,727,Heishan County,4,0
+732,727,Yi County,4,0
+733,727,Linghai City,4,0
+734,727,Bac Ninh City,4,0
+735,673,Yingkou City,3,115000
+736,735,Zhanqian District,4,0
+737,735,Xicheng District,4,0
+738,735,Bayuquan District,4,0
+739,735,Laobian District,4,0
+740,735,Gaizhou City,4,0
+741,735,Dashiqiao City,4,0
+742,673,Fuxin City,3,123000
+743,742,Haizhou District,4,0
+744,742,Xinqiu District,4,0
+745,742,Taiping District,4,0
+746,742,Qinghemen District,4,0
+747,742,Xihe District,4,0
+748,742,Fuxin Mongolian Autonomous County,4,0
+749,742,Zhangwu County,4,0
+750,673,Liaoyang City,3,111000
+751,750,Baita District,4,0
+752,750,Wensheng District,4,0
+753,750,Hongwei District,4,0
+754,750,Gongchangling District,4,0
+755,750,Taizihe District,4,0
+756,750,Liaoyang County,4,0
+757,750,Dengta City,4,0
+758,673,Panjin City,3,124000
+759,758,Shuangtaizi District,4,0
+760,758,Xinglongtai District,4,0
+761,758,Dawa County,4,0
+762,758,Panshan County,4,0
+763,673,Tieling City,3,112000
+764,763,Yinzhou District,4,0
+765,763,Qinghe District,4,0
+766,763,Tieling County,4,0
+767,763,Xifeng County,4,0
+768,763,Changtu County,4,0
+769,763,Jiaobingshan City,4,0
+770,763,Kaiyuan City,4,0
+771,673,Chaoyang City,3,122000
+772,771,Shuangta District,4,0
+773,771,Longcheng District,4,0
+774,771,Chaoyang County,4,0
+775,771,Jianping County,4,0
+776,771,Karaqin Left Mongolian Autonomous County,4,0
+777,771,Beipiao City,4,0
+778,771,Lingyuan City,4,0
+779,673,Huludao City,3,125000
+780,779,Lianshan District,4,0
+781,779,Longgang District,4,0
+782,779,Nanpiao District,4,0
+783,779,Suizhong County,4,0
+784,779,Jianchang County,4,0
+785,779,Xingcheng City,4,0
+786,1,Jilin Province,2,0
+787,786,Changchun City,3,130000
+788,787,Nanguan District,4,0
+789,787,Kuancheng District,4,0
+790,787,Erdao District,4,0
+791,787,Luyuan District,4,0
+792,787,Shuangyang District,4,0
+793,787,Nong'an County,4,0
+794,787,Jiutai City,4,0
+795,787,Yushu City,4,0
+796,787,Dehui City,4,0
+797,786,Jilin City,3,132000
+798,797,Changyi District,4,0
+799,797,Longtan District,4,0
+800,797,Chuanying District,4,0
+801,797,Fengman District,4,0
+802,797,Yongji County,4,0
+803,797,Jiaohe City,4,0
+804,797,Huadian City,4,0
+805,797,Shulan City,4,0
+806,797,Panshi City,4,0
+807,786,Siping City,3,136000
+808,807,Lishu County,4,0
+809,807,Yitong Manchu Autonomous County,4,0
+810,807,Gongzhuling City,4,0
+811,807,Shuangliao City,4,0
+812,786,Liaoyuan City,3,136200
+813,812,Longshan District,4,0
+814,812,Xi'an District,4,0
+815,812,Dongfeng County,4,0
+816,812,Dongliao County,4,0
+817,786,Tonghua City,3,134000
+818,817,Dongchang District,4,0
+819,817,Erdaojiang District,4,0
+820,817,Tonghua County,4,0
+821,817,Huinan County,4,0
+822,817,Liuhe County,4,0
+823,817,Meihekou City,4,0
+824,817,Ji'an City,4,0
+825,786,Baishan City,3,134300
+826,825,Badaojiang District,4,0
+827,825,Fusong County,4,0
+828,825,Jingyu County,4,0
+829,825,Changbai Korean Autonomous County,4,0
+830,825,Jiangyuan County,4,0
+831,825,Linjiang City,4,0
+832,786,Songyuan City,3,131100
+833,832,Ningjiang District,4,0
+834,832,Qianguoerlus Mongolian Autonomous County,4,0
+835,832,Changling County,4,0
+836,832,Qian'an County,4,0
+837,832,Fuyu County,4,0
+838,786,Baicheng City,3,137000
+839,838,Taobei District,4,0
+840,838,Zhentai County,4,0
+841,838,Tongyu County,4,0
+842,838,Taonan City,4,0
+843,838,Daan City,4,0
+844,786,Yanbian Korean Autonomous Prefecture,3,133000
+845,844,Yanji City,4,0
+846,844,Tumen City,4,0
+847,844,Dunhua City,4,0
+848,844,Hunchun City,4,0
+849,844,Longjing City,4,0
+850,844,Helong City,4,0
+851,844,Wangqing County,4,0
+852,844,Antu County,4,0
+853,1,Heilongjiang Province,2,0
+854,853,Harbin City,3,150000
+855,854,Daoli District,4,0
+856,854,Nangang District,4,0
+857,854,Daowai District,4,0
+858,854,Xiangfang District,4,0
+859,854,Power District,4,0
+860,854,Pingfang District,4,0
+861,854,Songbei District,4,0
+862,854,Hulan District,4,0
+863,854,Yilan County,4,0
+864,854,Fangzheng County,4,0
+865,854,Bin County,4,0
+866,854,Bayan County,4,0
+867,854,Mulan County,4,0
+868,854,Tonghe County,4,0
+869,854,Yanshou County,4,0
+870,854,Acheng District,4,0
+871,854,Shuangcheng District,4,0
+872,854,Shangzhi City,4,0
+873,854,Wuchang City,4,0
+874,853,Qiqihar City,3,161000
+875,874,Longsha District,4,0
+876,874,Jianhua District,4,0
+877,874,Tiefeng,4,0
+878,874,Aung Angxi District,4,0
+879,874,Fularji District,4,0
+880,874,Nianzishan District,4,0
+881,874,Meili Daur District,4,0
+882,874,Longjiang County,4,0
+883,874,Yi'an County,4,0
+884,874,Tailai County,4,0
+885,874,Gannan County,4,0
+886,874,Fufu County,4,0
+887,874,Keshan County,4,0
+888,874,Kedong County,4,0
+889,874,Baiquan County,4,0
+890,874,Nehe City,4,0
+891,853,Jixi City,3,158100
+892,891,Jiguan District,4,0
+893,891,Hengshan District,4,0
+894,891,Didao District,4,0
+895,891,Lishu District,4,0
+896,891,Chengzihe District,4,0
+897,891,Mashan District,4,0
+898,891,Jidong County,4,0
+899,891,Hulin City,4,0
+900,891,Mishan City,4,0
+901,853,Hegang City,3,154100
+902,901,Xiangyang District,4,0
+903,901,Gongnong District,4,0
+904,901,Nanshan District,4,0
+905,901,Xing'an District,4,0
+906,901,Dongshan District,4,0
+907,901,Xingshan District,4,0
+908,901,Luobei County,4,0
+909,901,Suibin County,4,0
+910,853,Shuangyashan City,3,155100
+911,910,Jianshan District,4,0
+912,910,Lingdong District,4,0
+913,910,Sifangtai District,4,0
+914,910,Baoshan District,4,0
+915,910,Jixian County,4,0
+916,910,Youyi County,4,0
+917,910,Baoqing County,4,0
+918,910,Raohe County,4,0
+919,853,Daqing City,3,163000
+920,919,Saltu District,4,0
+921,919,Longfeng District,4,0
+922,919,Ranghu Road District,4,0
+923,919,Honggang District,4,0
+924,919,Datong District,4,0
+925,919,Zhaozhou County,4,0
+926,919,Zhaoyuan County,4,0
+927,919,Lindian County,4,0
+928,919,Dulbert Mongolian Autonomous County,4,0
+929,853,Yichun City,3,152300
+930,929,Yichun District,4,0
+931,929,Nancha District,4,0
+932,929,Friendship Zone,4,0
+933,929,Xilin District,4,0
+934,929,Cuiluan District,4,0
+935,929,Xinqing District,4,0
+936,929,Meixi District,4,0
+937,929,Jinshantun District,4,0
+938,929,Wuying District,4,0
+939,929,Wumahe District,4,0
+940,929,Tangwanghe District,4,0
+941,929,Dailing District,4,0
+942,929,Wuyiling District,4,0
+943,929,Hongxing District,4,0
+944,929,Shangganling District,4,0
+945,929,Jiayin County,4,0
+946,929,Tieli City,4,0
+947,853,Jiamusi City,3,154000
+948,947,Yonghong District,4,0
+949,947,Qianjin District,4,0
+950,947,Dongfeng District,4,0
+951,947,Huanan County,4,0
+952,947,Huachuan County,4,0
+953,947,Majiang County,4,0
+954,947,Fuyuan County,4,0
+955,947,Tongjiang City,4,0
+956,947,Fujin City,4,0
+957,853,Qitaihe City,3,154600
+958,957,Xinxing District,4,0
+959,957,Taoshan District,4,0
+960,957,Jiazihe District,4,0
+961,957,Boli County,4,0
+962,853,Mudanjiang City,3,157000
+963,962,Dong'an District,4,0
+964,962,Yangming District,4,0
+965,962,Aimin District,4,0
+966,962,Dongning County,4,0
+967,962,Linkou County,4,0
+968,962,Suifenhe City,4,0
+969,962,Hailin City,4,0
+970,962,Ning'an City,4,0
+971,962,Muling City,4,0
+972,853,Heihe City,3,164300
+973,972,Aihui District,4,0
+974,972,Nenjiang County,4,0
+975,972,Xunke County,4,0
+976,972,Sunwu County,4,0
+977,972,Bac An,4,0
+978,972,Wudalianchi City,4,0
+979,853,Suihua City,3,152000
+980,979,Beilin District,4,0
+981,979,Wangkui County,4,0
+982,979,Lanxi County,4,0
+983,979,Qinggang County,4,0
+984,979,Qing'an County,4,0
+985,979,Mingshui County,4,0
+986,979,Suileng County,4,0
+987,979,Anda City,4,0
+988,979,Zhaodong City,4,0
+989,979,Helen,4,0
+990,853,Daxinganling District,3,165000
+991,990,Huma County,4,0
+992,990,Tahe County,4,0
+993,990,Mohe County,4,0
+994,1,Shanghai,2,0
+995,994,Shanghai,3,200000
+996,995,Huangpu District,4,0
+997,995,Luwan District,4,0
+998,995,Xuhui District,4,0
+999,995,Changning District,4,0
+1000,995,Jing'an District,4,0
+1001,995,Putuo District,4,0
+1002,995,Zhabei District,4,0
+1003,995,Hongkou District,4,0
+1004,995,Yangpu District,4,0
+1005,995,Minhang District,4,0
+1006,995,Jiading District,4,0
+1007,995,Pudong New Area,4,0
+1008,995,Jinshan District,4,0
+1009,995,Songjiang District,4,0
+1010,995,Qingpu District,4,0
+1011,995,Nanhui District,4,0
+1012,995,Fengxian District,4,0
+1013,995,Chongming County,4,0
+1014,1,Jiangsu Province,2,0
+1015,1014,Nanjing City,3,210000
+1016,1015,Xuanwu District,4,0
+1017,1015,Baixia District,4,0
+1018,1015,Qinhuai District,4,0
+1019,1015,Jianye District,4,0
+1020,1015,Gulou District,4,0
+1021,1015,Xiaguan District,4,0
+1022,1015,Pukou District,4,0
+1023,1015,Qixia District,4,0
+1024,1015,Yuhuatai District,4,0
+1025,1015,Jiangning District,4,0
+1026,1015,Liuhe District,4,0
+1027,1015,Lishui,4,0
+1028,1015,Gaochun County,4,0
+1029,1014,Wuxi City,3,214000
+1030,1029,Chong'an District,4,0
+1031,1029,Nanchang District,4,0
+1032,1029,Beitang District,4,0
+1033,1029,Xishan District,4,0
+1034,1029,Huishan District,4,0
+1035,1029,Binhu District,4,0
+1036,1029,Jiangyin City,4,0
+1037,1029,Yixing City,4,0
+1038,1014,Xuzhou City,3,221000
+1039,1038,Yunlong District,4,0
+1040,1038,Jiuli District,4,0
+1041,1038,Jiawang District,4,0
+1042,1038,Quanshan District,4,0
+1043,1038,Feng County,4,0
+1044,1038,Pei County,4,0
+1045,1038,Tongshan County,4,0
+1046,1038,Suining County,4,0
+1047,1038,Xinyi City,4,0
+1048,1038,Pizhou City,4,0
+1049,1014,Changzhou City,3,213000
+1050,1049,Tianning District,4,0
+1051,1049,Zhonglou District,4,0
+1052,1049,Qishuyan District,4,0
+1053,1049,Xinbei District,4,0
+1054,1049,Wujin District,4,0
+1055,1049,Liyang City,4,0
+1056,1049,Jintan City,4,0
+1057,1014,Suzhou City,3,215000
+1058,1057,Canglang District,4,0
+1059,1057,Binh Giang District,4,0
+1060,1057,Jinchang District,4,0
+1061,1057,Huqiu District,4,0
+1062,1057,Wuzhong District,4,0
+1063,1057,Xiangcheng District,4,0
+1064,1057,Changshu City,4,0
+1065,1057,Zhangjiagang City,4,0
+1066,1057,Kunshan City,4,0
+1067,1057,Wujiang City,4,0
+1068,1057,Taicang City,4,0
+1069,1014,Nantong City,3,226000
+1070,1069,Chongchuan District,4,0
+1071,1069,Gangzha District,4,0
+1072,1069,Hai'an County,4,0
+1073,1069,Rudong County,4,0
+1074,1069,Qidong City,4,0
+1075,1069,Rugao City,4,0
+1076,1069,Tongzhou City,4,0
+1077,1069,Haimen City,4,0
+1078,1014,Lianyungang City,3,222000
+1079,1078,Lianyun District,4,0
+1080,1078,Xinpu,4,0
+1081,1078,Ganyu County,4,0
+1082,1078,Donghai County,4,0
+1083,1078,Guanyun County,4,0
+1084,1078,Guannan County,4,0
+1085,1014,Huai'an City,3,223200
+1086,1085,Chuzhou District,4,0
+1087,1085,Huaiyin District,4,0
+1088,1085,Qingpu District,4,0
+1089,1085,Lianshui County,4,0
+1090,1085,Hongze County,4,0
+1091,1085,Xuyi County,4,0
+1092,1085,Jinhu County,4,0
+1093,1014,Yancheng City,3,224000
+1094,1093,Tinghu District,4,0
+1095,1093,Yandu District,4,0
+1096,1093,Xiangshui County,4,0
+1097,1093,Binhai County,4,0
+1098,1093,Funing County,4,0
+1099,1093,Sheyang County,4,0
+1100,1093,Jianhu County,4,0
+1101,1093,Dongtai City,4,0
+1102,1093,Dafeng City,4,0
+1103,1014,Yangzhou City,3,225000
+1104,1103,Guangling District,4,0
+1105,1103,Hanjiang District,4,0
+1106,1103,Weiyang District,4,0
+1107,1103,Baoying County,4,0
+1108,1103,Yizheng City,4,0
+1109,1103,Gaoyou City,4,0
+1110,1103,Jiangdu,4,0
+1111,1014,Zhenjiang City,3,212000
+1112,1111,Jingkou District,4,0
+1113,1111,Runzhou District,4,0
+1114,1111,Dantu District,4,0
+1115,1111,Danyang City,4,0
+1116,1111,Yangzhong City,4,0
+1117,1111,Jurong City,4,0
+1118,1014,Taizhou City,3,225300
+1119,1118,Hailing District,4,0
+1120,1118,Gaogang District,4,0
+1121,1118,Xinghua City,4,0
+1122,1118,Jingjiang City,4,0
+1123,1118,Taixing City,4,0
+1124,1118,Jiangyan City,4,0
+1125,1014,Suqian City,3,223800
+1126,1125,Sucheng District,4,0
+1127,1125,Suyu District,4,0
+1128,1125,Shuyang County,4,0
+1129,1125,Siyang County,4,0
+1130,1125,Sihong,4,0
+1131,1,Zhejiang Province,2,0
+1132,1131,Hangzhou City,3,310000
+1133,1132,Shangcheng District,4,0
+1134,1132,Xiacheng District,4,0
+1135,1132,Jianggan District,4,0
+1136,1132,Gongshu District,4,0
+1137,1132,Xihu District,4,0
+1138,1132,Binjiang District,4,0
+1139,1132,Xiaoshan District,4,0
+1140,1132,Yuhang District,4,0
+1141,1132,Tonglu County,4,0
+1142,1132,Chun'an County,4,0
+1143,1132,Jiande City,4,0
+1144,1132,Fuyang City,4,0
+1145,1132,Lin'an City,4,0
+1146,1131,Ningbo City,3,315000
+1147,1146,Haishu District,4,0
+1148,1146,Jiangdong District,4,0
+1149,1146,Jiangbei,4,0
+1150,1146,Beilun District,4,0
+1151,1146,Zhenhai District,4,0
+1152,1146,Yinzhou District,4,0
+1153,1146,Xiangshan County,4,0
+1154,1146,Ninghai County,4,0
+1155,1146,Yuyao City,4,0
+1156,1146,Cixi City,4,0
+1157,1146,Fenghua City,4,0
+1158,1131,Wenzhou City,3,325000
+1159,1158,Lucheng District,4,0
+1160,1158,Longwan District,4,0
+1161,1158,Ouhai District,4,0
+1162,1158,Dongtou County,4,0
+1163,1158,Yongjia County,4,0
+1164,1158,Pingyang County,4,0
+1165,1158,Cangnan County,4,0
+1166,1158,Wencheng County,4,0
+1167,1158,Taishun County,4,0
+1168,1158,Ruian City,4,0
+1169,1158,Yueqing City,4,0
+1170,1131,Jiaxing City,3,314000
+1171,1170,Xiucheng District,4,0
+1172,1170,Xiuzhou District,4,0
+1173,1170,Jiashan County,4,0
+1174,1170,Haiyan County,4,0
+1175,1170,Haining City,4,0
+1176,1170,Pinghu City,4,0
+1177,1170,Tongxiang City,4,0
+1178,1131,Huzhou City,3,313000
+1179,1178,Wuxing District,4,0
+1180,1178,Nanxun District,4,0
+1181,1178,Deqing County,4,0
+1182,1178,Changxing County,4,0
+1183,1178,Anji County,4,0
+1184,1131,Shaoxing City,3,312000
+1185,1184,Yuecheng District,4,0
+1186,1184,Shaoxing County,4,0
+1187,1184,Xinchang County,4,0
+1188,1184,Zhuji City,4,0
+1189,1184,Shangyu City,4,0
+1190,1184,Shengzhou City,4,0
+1191,1131,Jinhua City,3,321000
+1192,1191,Wucheng District,4,0
+1193,1191,Jindong District,4,0
+1194,1191,Wuyi County,4,0
+1195,1191,Pujiang County,4,0
+1196,1191,Pan'an County,4,0
+1197,1191,Lanxi City,4,0
+1198,1191,Yiwu City,4,0
+1199,1191,Dongyang City,4,0
+1200,1191,Yongkang City,4,0
+1201,1131,Quzhou City,3,324000
+1202,1201,Kecheng District,4,0
+1203,1201,Qujiang District,4,0
+1204,1201,Changshan County,4,0
+1205,1201,Kaihua County,4,0
+1206,1201,Longyou County,4,0
+1207,1201,Jiangshan City,4,0
+1208,1131,Zhoushan City,3,316000
+1209,1208,Dinghai District,4,0
+1210,1208,Daishan County,4,0
+1211,1208,Shengsi County,4,0
+1212,1131,Taizhou City,3,318000
+1213,1212,Jiaojiang District,4,0
+1214,1212,Huangyan District,4,0
+1215,1212,Luqiao District,4,0
+1216,1212,Yuhuan County,4,0
+1217,1212,Sanmen County,4,0
+1218,1212,Tiantai County,4,0
+1219,1212,Xianju,4,0
+1220,1212,Wenling City,4,0
+1221,1212,Linhai City,4,0
+1222,1131,Lishui City,3,323000
+1223,1222,Liandu District,4,0
+1224,1222,Qingtian County,4,0
+1225,1222,Jinyun District,4,0
+1226,1222,Suichang County,4,0
+1227,1222,Songyang County,4,0
+1228,1222,Yunhe County,4,0
+1229,1222,Qingyuan County,4,0
+1230,1222,Jingning She Autonomous County,4,0
+1231,1222,Longquan City,4,0
+1232,1,Anhui Province,2,0
+1233,1232,Hefei City,3,230000
+1234,1233,Yaohai District,4,0
+1235,1233,Luyang,4,0
+1236,1233,Shushan District,4,0
+1237,1233,Baohe District,4,0
+1238,1233,Changfeng County,4,0
+1239,1233,Feidong County,4,0
+1240,1233,Feixi County,4,0
+1241,1232,Wuhu City,3,241000
+1242,1241,Jinghu District,4,0
+1243,1241,Matang District,4,0
+1244,1241,Xinwu District,4,0
+1245,1241,Jiujiang District,4,0
+1246,1241,Wuhu County,4,0
+1247,1241,Fanchang County,4,0
+1248,1241,Nanling County,4,0
+1249,1232,Bengbu City,3,233000
+1250,1249,Longzihu District,4,0
+1251,1249,Bengshan District,4,0
+1252,1249,Yuhui District,4,0
+1253,1249,Huaishang District,4,0
+1254,1249,Huaiyuan County,4,0
+1255,1249,Wuhe County,4,0
+1256,1249,Guzhen County,4,0
+1257,1232,Huainan City,3,232000
+1258,1257,Datong District,4,0
+1259,1257,Tianjia'an District,4,0
+1260,1257,Xiejiaji District,4,0
+1261,1257,Bagongshan District,4,0
+1262,1257,Panji District,4,0
+1263,1257,Fengtai County,4,0
+1264,1232,Ma'anshan City,3,243000
+1265,1264,Jinjiazhuang District,4,0
+1266,1264,Huashan District,4,0
+1267,1264,Yushan District,4,0
+1268,1264,Dangtu County,4,0
+1269,1232,Huaibei City,3,235000
+1270,1269,Duji District,4,0
+1271,1269,Xiangshan District,4,0
+1272,1269,Lieshan District,4,0
+1273,1269,Suixi County,4,0
+1274,1232,Tongling City,3,244000
+1275,1274,Tongguanshan District,4,0
+1276,1274,Lion District,4,0
+1277,1274,Tongling County,4,0
+1278,1232,Anqing City,3,246000
+1279,1278,Yingjiang District,4,0
+1280,1278,Daguan District,4,0
+1281,1278,Huaining County,4,0
+1282,1278,Zongyang County,4,0
+1283,1278,Qianshan County,4,0
+1284,1278,Taihu County,4,0
+1285,1278,Susong County,4,0
+1286,1278,Wangjiang County,4,0
+1287,1278,Yuexi County,4,0
+1288,1278,Tongcheng City,4,0
+1289,1232,Huangshan City,3,242700
+1290,1289,Tunxi District,4,0
+1291,1289,Huangshan,4,0
+1292,1289,Huizhou District,4,0
+1293,1289,She County,4,0
+1294,1289,Xiuning County,4,0
+1295,1289,Yi County,4,0
+1296,1289,Qimen County,4,0
+1297,1232,Chuzhou City,3,239000
+1298,1297,Langya District,4,0
+1299,1297,Nanqiao District,4,0
+1300,1297,Lai'an County,4,0
+1301,1297,Quanjiao County,4,0
+1302,1297,Dingyuan County,4,0
+1303,1297,Fengyang County,4,0
+1304,1297,Tianchang City,4,0
+1305,1297,Mingguang City,4,0
+1306,1232,Fuyang City,3,236100
+1307,1306,Yingzhou District,4,0
+1308,1306,Yingdong District,4,0
+1309,1306,Yingquan District,4,0
+1310,1306,Linquan County,4,0
+1311,1306,Taihe County,4,0
+1312,1306,Funan County,4,0
+1313,1306,Yingshang County,4,0
+1314,1306,Jieshou City,4,0
+1315,1232,Suzhou City,3,234100
+1316,1315,Yongqiao District,4,0
+1317,1315,Dangshan County,4,0
+1318,1315,Xiao County,4,0
+1319,1315,Lingbi County,4,0
+1320,1315,Si County,4,0
+1321,1232,Chaohu City,3,238000
+1322,1321,Juchao District,4,0
+1323,1321,Lujiang County,4,0
+1324,1321,Wuwei County,4,0
+1325,1321,Hanshan County,4,0
+1326,1321,He County,4,0
+1327,1232,Lu'an City,3,237000
+1328,1327,Jin'an District,4,0
+1329,1327,Yu'an District,4,0
+1330,1327,Shou County,4,0
+1331,1327,Huoqiu County,4,0
+1332,1327,Shucheng County,4,0
+1333,1327,Jinzhai County,4,0
+1334,1327,Huoshan County,4,0
+1335,1232,Bozhou City,3,236800
+1336,1335,Qiaocheng District,4,0
+1337,1335,Wuyang County,4,0
+1338,1335,Mengcheng County,4,0
+1339,1335,Lixin County,4,0
+1340,1232,Chizhou City,3,247100
+1341,1340,Guichi District,4,0
+1342,1340,Dongzhi County,4,0
+1343,1340,Shitai County,4,0
+1344,1340,Qingyang County,4,0
+1345,1232,Xuancheng City,3,366000
+1346,1345,Xuanzhou District,4,0
+1347,1345,Langxi County,4,0
+1348,1345,Guangde County,4,0
+1349,1345,Jing County,4,0
+1350,1345,Jixi County,4,0
+1351,1345,Jingde County,4,0
+1352,1345,Ningguo City,4,0
+1353,1,Fujian Province,2,0
+1354,1353,Fuzhou City,3,350000
+1355,1354,Taijiang District,4,0
+1356,1354,Cangshan District,4,0
+1357,1354,Mawei District,4,0
+1358,1354,Jin'an District,4,0
+1359,1354,Minhou County,4,0
+1360,1354,Lianjiang County,4,0
+1361,1354,Luoyuan County,4,0
+1362,1354,Minqing County,4,0
+1363,1354,Yongtai County,4,0
+1364,1354,Pingtan County,4,0
+1365,1354,Fuqing City,4,0
+1366,1354,Changle City,4,0
+1367,1353,Xiamen City,3,361000
+1368,1367,Siming District,4,0
+1369,1367,Haicang District,4,0
+1370,1367,Huli District,4,0
+1371,1367,Jimei District,4,0
+1372,1367,Tong'an District,4,0
+1373,1367,Xiang'an District,4,0
+1374,1353,Putian City,3,351100
+1375,1374,Chengxiang District,4,0
+1376,1374,Hanjiang District,4,0
+1377,1374,Licheng District,4,0
+1378,1374,Xiuyu District,4,0
+1379,1374,Xianyou County,4,0
+1380,1353,Sanming,3,365000
+1381,1380,Meilie District,4,0
+1382,1380,Sanyuan District,4,0
+1383,1380,Mingxi County,4,0
+1384,1380,Qingliu County,4,0
+1385,1380,Ninghua County,4,0
+1386,1380,Datian County,4,0
+1387,1380,Youxi County,4,0
+1388,1380,Sha County,4,0
+1389,1380,Jiangle County,4,0
+1390,1380,Taining County,4,0
+1391,1380,Jianning County,4,0
+1392,1380,Yongan City,4,0
+1393,1353,Quanzhou City,3,362000
+1394,1393,Licheng District,4,0
+1395,1393,Fengze District,4,0
+1396,1393,Luojiang District,4,0
+1397,1393,Quangang,4,0
+1398,1393,Hui'an County,4,0
+1399,1393,Anxi County,4,0
+1400,1393,Yongchun County,4,0
+1401,1393,Dehua County,4,0
+1402,1393,Kinmen County,4,0
+1403,1393,Shishi City,4,0
+1404,1393,Jinjiang City,4,0
+1405,1393,Nan'an City,4,0
+1406,1353,Zhangzhou City,3,363000
+1407,1406,Xiangcheng District,4,0
+1408,1406,Longwen District,4,0
+1409,1406,Yunxiao County,4,0
+1410,1406,Zhangpu County,4,0
+1411,1406,Zhao'an County,4,0
+1412,1406,Changtai County,4,0
+1413,1406,Dongshan County,4,0
+1414,1406,Nanjing County,4,0
+1415,1406,Pinghe County,4,0
+1416,1406,Hua'an County,4,0
+1417,1406,Longhai City,4,0
+1418,1353,Nanping City,3,353000
+1419,1418,Yanping District,4,0
+1420,1418,Shunchang County,4,0
+1421,1418,Pucheng County,4,0
+1422,1418,Guangguang County,4,0
+1423,1418,Songxi County,4,0
+1424,1418,Zhenghe County,4,0
+1425,1418,Shaowu City,4,0
+1426,1418,Wuyishan City,4,0
+1427,1418,Jian'ou City,4,0
+1428,1418,Jianyang City,4,0
+1429,1353,Longyan City,3,364000
+1430,1429,Silla District,4,0
+1431,1429,Changting County,4,0
+1432,1429,Yongding County,4,0
+1433,1429,Shanghang County,4,0
+1434,1429,Wuping County,4,0
+1435,1429,Liancheng County,4,0
+1436,1429,Zhangping City,4,0
+1437,1353,Ningde City,3,352100
+1438,1437,Jiaocheng District,4,0
+1439,1437,Xiapu County,4,0
+1440,1437,Gutian County,4,0
+1441,1437,Pingnan County,4,0
+1442,1437,Shouning County,4,0
+1443,1437,Zhouning County,4,0
+1444,1437,Zherong County,4,0
+1445,1437,Fu'an City,4,0
+1446,1437,Fuding City,4,0
+1447,1,Jiangxi Province,2,0
+1448,1447,Nanchang City,3,330000
+1449,1448,Donghu District,4,0
+1450,1448,Qingyunpu District,4,0
+1451,1448,Wanli District,4,0
+1452,1448,Qingshanhu District,4,0
+1453,1448,Nanchang County,4,0
+1454,1448,Xinjian County,4,0
+1455,1448,Anyi County,4,0
+1456,1448,Jinxian County,4,0
+1457,1447,Jingdezhen City,3,333000
+1458,1457,Changjiang District,4,0
+1459,1457,Zhushan District,4,0
+1460,1457,Fuliang County,4,0
+1461,1457,Leping City,4,0
+1462,1447,Pingxiang City,3,337000
+1463,1462,Anyuan District,4,0
+1464,1462,Xiangdong District,4,0
+1465,1462,Lianhua County,4,0
+1466,1462,Shangli County,4,0
+1467,1462,Luxi County,4,0
+1468,1447,Jiujiang City,3,332000
+1469,1468,Lushan District,4,0
+1470,1468,Xunyang District,4,0
+1471,1468,Jiujiang County,4,0
+1472,1468,Wuning County,4,0
+1473,1468,Xiushui County,4,0
+1474,1468,Yongxiu County,4,0
+1475,1468,De'an County,4,0
+1476,1468,Xingzi County,4,0
+1477,1468,Tuchang District,4,0
+1478,1468,Hukou County,4,0
+1479,1468,Pengze County,4,0
+1480,1468,Ruichang City,4,0
+1481,1447,Xinyu City,3,338000
+1482,1481,Yushui District,4,0
+1483,1481,Fenyi County,4,0
+1484,1447,Yingtan City,3,335000
+1485,1484,Yuehu District,4,0
+1486,1484,Tangyuan County,4,0
+1487,1484,Guixi City,4,0
+1488,1447,Ganzhou City,3,341000
+1489,1488,Zhanggong District,4,0
+1490,1488,Gan County,4,0
+1491,1488,Xinfeng County,4,0
+1492,1488,Dayu County,4,0
+1493,1488,Shangyou County,4,0
+1494,1488,Chongyi County,4,0
+1495,1488,Anyuan County,4,0
+1496,1488,Longnan County,4,0
+1497,1488,Dingnan County,4,0
+1498,1488,Quannan County,4,0
+1499,1488,Ningdu County,4,0
+1500,1488,Yudu County,4,0
+1501,1488,Xingguo County,4,0
+1502,1488,Huichang County,4,0
+1503,1488,Xunwu County,4,0
+1504,1488,Shicheng County,4,0
+1505,1488,Ruijin City,4,0
+1506,1488,Nankang City,4,0
+1507,1447,Ji'an City,3,343000
+1508,1507,Jizhou District,4,0
+1509,1507,Qingyuan District,4,0
+1510,1507,Ji'an County,4,0
+1511,1507,Jishui County,4,0
+1512,1507,Xiajiang County,4,0
+1513,1507,Xingan County,4,0
+1514,1507,Yongfeng County,4,0
+1515,1507,Taihe County,4,0
+1516,1507,Suichuan County,4,0
+1517,1507,Wan'an County,4,0
+1518,1507,Anfu County,4,0
+1519,1507,Yongxin County,4,0
+1520,1507,Jinggangshan City,4,0
+1521,1447,Yichun City,3,336000
+1522,1521,Yuanzhou District,4,0
+1523,1521,Fengxin County,4,0
+1524,1521,Wanzai County,4,0
+1525,1521,Shanggao County,4,0
+1526,1521,Yifeng County,4,0
+1527,1521,Jing'an County,4,0
+1528,1521,Tonggu County,4,0
+1529,1521,Phong City,4,0
+1530,1521,Zhangshu City,4,0
+1531,1521,Gao'an City,4,0
+1532,1447,Fuzhou City,3,332900
+1533,1532,Linchuan District,4,0
+1534,1532,Nancheng County,4,0
+1535,1532,Lichuan County,4,0
+1536,1532,Nanfeng County,4,0
+1537,1532,Chongren County,4,0
+1538,1532,Le'an County,4,0
+1539,1532,Yihuang County,4,0
+1540,1532,Jinxi County,4,0
+1541,1532,Zixi County,4,0
+1542,1532,Dongxiang County,4,0
+1543,1532,Guangchang County,4,0
+1544,1447,Shangrao City,3,334000
+1545,1544,Xinzhou District,4,0
+1546,1544,Shangrao County,4,0
+1547,1544,Guangfeng County,4,0
+1548,1544,Yushan County,4,0
+1549,1544,Leadshan County,4,0
+1550,1544,Hengfeng County,4,0
+1551,1544,Yiyang County,4,0
+1552,1544,Yugan County,4,0
+1553,1544,Poyang County,4,0
+1554,1544,Wannian,4,0
+1555,1544,Wuyuan County,4,0
+1556,1544,Dexing City,4,0
+1557,1,Shandong Province,2,0
+1558,1557,Jinan City,3,250000
+1559,1558,Lixia District,4,0
+1560,1558,Shizhong District,4,0
+1561,1558,Huaiyin District,4,0
+1562,1558,Tianqiao District,4,0
+1563,1558,Licheng District,4,0
+1564,1558,Changqing District,4,0
+1565,1558,Pingyin County,4,0
+1566,1558,Jiyang County,4,0
+1567,1558,Shanghe County,4,0
+1568,1558,Zhangqiu City,4,0
+1569,1557,Qingdao City,3,266000
+1570,1569,Shinan District,4,0
+1571,1569,Shibei District,4,0
+1572,1569,Sifang District,4,0
+1573,1569,Huangdao District,4,0
+1574,1569,Laoshan District,4,0
+1575,1569,Licang District,4,0
+1576,1569,Chengyang District,4,0
+1577,1569,Jiaozhou City,4,0
+1578,1569,Jimo City,4,0
+1579,1569,Pingdu City,4,0
+1580,1569,Jiaonan City,4,0
+1581,1569,Laixi City,4,0
+1582,1557,Zibo,3,255000
+1583,1582,Zichuan District,4,0
+1584,1582,Zhangdian District,4,0
+1585,1582,Boshan District,4,0
+1586,1582,Linzi District,4,0
+1587,1582,Zhoucun District,4,0
+1588,1582,Huantai County,4,0
+1589,1582,Gaoqing County,4,0
+1590,1582,Yiyuan County,4,0
+1591,1557,Zaozhuang City,3,277100
+1592,1591,Xuecheng District,4,0
+1593,1591,Yicheng District,4,0
+1594,1591,Taierzhuang District,4,0
+1595,1591,Shanting District,4,0
+1596,1591,Tengzhou City,4,0
+1597,1557,Dongying City,3,257000
+1598,1597,Dongying District,4,0
+1599,1597,Hekou District,4,0
+1600,1597,Kenli County,4,0
+1601,1597,Lijin County,4,0
+1602,1597,Guangrao County,4,0
+1603,1557,Yantai City,3,264000
+1604,1603,Zhifu District,4,0
+1605,1603,Fushan District,4,0
+1606,1603,Muping District,4,0
+1607,1603,Laishan District,4,0
+1608,1603,Changdao County,4,0
+1609,1603,Longkou City,4,0
+1610,1603,Laiyang City,4,0
+1611,1603,Laizhou City,4,0
+1612,1603,Penglai City,4,0
+1613,1603,Zhaoyuan City,4,0
+1614,1603,Qixia City,4,0
+1615,1603,Hai Duong City,4,0
+1616,1557,Weifang City,3,261000
+1617,1616,Weicheng District,4,0
+1618,1616,Hanting District,4,0
+1619,1616,Pong Tsai District,4,0
+1620,1616,Kuiwen District,4,0
+1621,1616,Linqu County,4,0
+1622,1616,Changle County,4,0
+1623,1616,Qingzhou City,4,0
+1624,1616,Zhucheng City,4,0
+1625,1616,Shouguang City,4,0
+1626,1616,Anqiu City,4,0
+1627,1616,Gaomi City,4,0
+1628,1616,Changyi City,4,0
+1629,1557,Jining City,3,272100
+1630,1629,Rencheng District,4,0
+1631,1629,Weishan County,4,0
+1632,1629,Yutai County,4,0
+1633,1629,Jinxiang County,4,0
+1634,1629,Jiaxiang County,4,0
+1635,1629,Wenshang County,4,0
+1636,1629,Surabaya County,4,0
+1637,1629,Liangshan County,4,0
+1638,1629,Qufu City,4,0
+1639,1629,Yanzhou City,4,0
+1640,1629,Zoucheng City,4,0
+1641,1557,Tai'an City,3,271000
+1642,1641,Taishan District,4,0
+1643,1641,Daiyue District,4,0
+1644,1641,Ningyang County,4,0
+1645,1641,Dongping County,4,0
+1646,1641,Xintai City,4,0
+1647,1641,Feicheng City,4,0
+1648,1557,Weihai City,3,265700
+1649,1648,Huancui District,4,0
+1650,1648,Wendeng City,4,0
+1651,1648,Rongcheng City,4,0
+1652,1648,Rushan City,4,0
+1653,1557,Rizhao City,3,276800
+1654,1653,Donggang District,4,0
+1655,1653,Lanshan District,4,0
+1656,1653,Wulian County,4,0
+1657,1653,Ju County,4,0
+1658,1557,Laiwu City,3,271100
+1659,1658,Laicheng District,4,0
+1660,1658,Gangcheng District,4,0
+1661,1557,Linyi City,3,276000
+1662,1661,Lanshan District,4,0
+1663,1661,Luozhuang District,4,0
+1664,1661,Yinan County,4,0
+1665,1661,Tancheng County,4,0
+1666,1661,Yishui County,4,0
+1667,1661,Cangshan County,4,0
+1668,1661,Fei County,4,0
+1669,1661,Pingyi County,4,0
+1670,1661,Junan County,4,0
+1671,1661,Mengyin County,4,0
+1672,1661,Linshu County,4,0
+1673,1557,Dezhou City,3,253000
+1674,1673,Decheng District,4,0
+1675,1673,Ling County,4,0
+1676,1673,Ningjin County,4,0
+1677,1673,Qingyun County,4,0
+1678,1673,Linyi County,4,0
+1679,1673,Qihe County,4,0
+1680,1673,Pingyuan County,4,0
+1681,1673,Xiajin County,4,0
+1682,1673,Wucheng County,4,0
+1683,1673,Leling,4,0
+1684,1673,Yucheng City,4,0
+1685,1557,Liaocheng City,3,252000
+1686,1685,Dongchangfu District,4,0
+1687,1685,Yanggu County,4,0
+1688,1685,Xin County,4,0
+1689,1685,Chiping,4,0
+1690,1685,Dong'e County,4,0
+1691,1685,Guan County,4,0
+1692,1685,Gaotang County,4,0
+1693,1685,Linqing City,4,0
+1694,1557,Binzhou City,3,256600
+1695,1694,Bincheng District,4,0
+1696,1694,Huimin County,4,0
+1697,1694,Yangxin County,4,0
+1698,1694,Wudi County,4,0
+1699,1694,Zhanhua County,4,0
+1700,1694,Boxing County,4,0
+1701,1694,Zouping County,4,0
+1702,1557,Heze City,3,255000
+1703,1702,Mudan District,4,0
+1704,1702,Cao County,4,0
+1705,1702,Shan County,4,0
+1706,1702,Chengwu County,4,0
+1707,1702,Juye County,4,0
+1708,1702,Yuncheng County,4,0
+1709,1702,Juancheng County,4,0
+1710,1702,Dingtao County,4,0
+1711,1702,Dongming County,4,0
+1712,1,Henan Province,2,0
+1713,1712,Zhengzhou City,3,450000
+1714,1713,Zhongyuan District,4,0
+1715,1713,Erqi District,4,0
+1716,1713,Guancheng Hui District,4,0
+1717,1713,Jinshui District,4,0
+1718,1713,Shangjie District,4,0
+1719,1713,Huiji District,4,0
+1720,1713,Zhongmu County,4,0
+1721,1713,Gongyi City,4,0
+1722,1713,Xingyang City,4,0
+1723,1713,Xinmi City,4,0
+1724,1713,Xinzheng City,4,0
+1725,1713,Dengfeng,4,0
+1726,1712,Kaifeng City,3,475000
+1727,1726,Longting District,4,0
+1728,1726,Shunhe Hui District,4,0
+1729,1726,Qi County,4,0
+1730,1726,Tongxu County,4,0
+1731,1726,Weishi County,4,0
+1732,1726,Kaifeng County,4,0
+1733,1726,Lankao County,4,0
+1734,1712,Luoyang City,3,471000
+1735,1734,Laocheng District,4,0
+1736,1734,Xigong District,4,0
+1737,1734,Dianhe Hui District,4,0
+1738,1734,Jianxi District,4,0
+1739,1734,Gili District,4,0
+1740,1734,Luolong District,4,0
+1741,1734,Mengjin County,4,0
+1742,1734,Xin'an County,4,0
+1743,1734,Luanchuan County,4,0
+1744,1734,Song County,4,0
+1745,1734,Ruyang County,4,0
+1746,1734,Yiyang County,4,0
+1747,1734,Luoning County,4,0
+1748,1734,Yichuan County,4,0
+1749,1734,Yanshi City,4,0
+1750,1712,Pingdingshan City,3,467000
+1751,1750,Weidong District,4,0
+1752,1750,Shilong District,4,0
+1753,1750,Zhanhe District,4,0
+1754,1750,Baofeng County,4,0
+1755,1750,Ye County,4,0
+1756,1750,Lushan County,4,0
+1757,1750,Jia County,4,0
+1758,1750,Wugang City,4,0
+1759,1750,Ruzhou City,4,0
+1760,1712,Anyang City,3,454900
+1761,1760,Wenfeng District,4,0
+1762,1760,Beiguan District,4,0
+1763,1760,Yindu District,4,0
+1764,1760,Longan District,4,0
+1765,1760,Anyang County,4,0
+1766,1760,Tangyin County,4,0
+1767,1760,Hua County,4,0
+1768,1760,Neihuang County,4,0
+1769,1760,Linzhou City,4,0
+1770,1712,Hebi City,3,456600
+1771,1770,Heshan District,4,0
+1772,1770,Shancheng District,4,0
+1773,1770,Qibin District,4,0
+1774,1770,Jun,4,0
+1775,1770,Qi County,4,0
+1776,1712,Xinxiang City,3,453000
+1777,1776,Hongqi District,4,0
+1778,1776,Weibin District,4,0
+1779,1776,Fengquan District,4,0
+1780,1776,Muye District,4,0
+1781,1776,Xinxiang County,4,0
+1782,1776,Huojia County,4,0
+1783,1776,Yuanyang County,4,0
+1784,1776,Yanjin County,4,0
+1785,1776,Fengqiu County,4,0
+1786,1776,Changyuan County,4,0
+1787,1776,Weihui City,4,0
+1788,1776,Huixian City,4,0
+1789,1712,Jiaozuo City,3,454100
+1790,1789,Liberated Area,4,0
+1791,1789,Zhongzhan District,4,0
+1792,1789,Macun District,4,0
+1793,1789,Shanyang District,4,0
+1794,1789,Xiuwu County,4,0
+1795,1789,Boai County,4,0
+1796,1789,Wuzhi County,4,0
+1797,1789,Wen County,4,0
+1798,1789,Jiyuan City,4,0
+1799,1789,Qinyang City,4,0
+1800,1789,Mengzhou City,4,0
+1801,1712,Puyang City,3,457000
+1802,1801,Hualong District,4,0
+1803,1801,Qingfeng County,4,0
+1804,1801,Nanle County,4,0
+1805,1801,Fan County,4,0
+1806,1801,Taiqian County,4,0
+1807,1801,Puyang County,4,0
+1808,1712,Xuchang City,3,461000
+1809,1808,Weidu District,4,0
+1810,1808,Xuchang County,4,0
+1811,1808,Yanling County,4,0
+1812,1808,Xiangcheng County,4,0
+1813,1808,Yuzhou City,4,0
+1814,1808,Changge City,4,0
+1815,1712,Luohe City,3,462000
+1816,1815,Yuanhui District,4,0
+1817,1815,Yuncheng District,4,0
+1818,1815,Zhaoling District,4,0
+1819,1815,Wuyang County,4,0
+1820,1815,Linying County,4,0
+1821,1712,Sanmenxia City,3,472000
+1822,1821,Municipal District,4,0
+1823,1821,Hubin District,4,0
+1824,1821,Mianchi County,4,0
+1825,1821,Shaanxi County,4,0
+1826,1821,Lushi County,4,0
+1827,1821,Yima City,4,0
+1828,1821,Lingbao City,4,0
+1829,1712,Nanyang City,3,473000
+1830,1829,Wancheng District,4,0
+1831,1829,Wolong District,4,0
+1832,1829,Nanzhao County,4,0
+1833,1829,Fangcheng County,4,0
+1834,1829,Xixia County,4,0
+1835,1829,Zhenping County,4,0
+1836,1829,Neixiang County,4,0
+1837,1829,Xichuan County,4,0
+1838,1829,Sheqi County,4,0
+1839,1829,Tanghe County,4,0
+1840,1829,Xinye County,4,0
+1841,1829,Tongbai County,4,0
+1842,1829,Dengzhou City,4,0
+1843,1712,Shangqiu City,3,476000
+1844,1843,Liangyuan District,4,0
+1845,1843,Suiyang District,4,0
+1846,1843,Minquan County,4,0
+1847,1843,Sui County,4,0
+1848,1843,Ningling County,4,0
+1849,1843,Zhecheng County,4,0
+1850,1843,Yucheng County,4,0
+1851,1843,Xiayi County,4,0
+1852,1843,Yongcheng City,4,0
+1853,1712,Xinyang City,3,464000
+1854,1853,Shihe District,4,0
+1855,1853,Pingqiao District,4,0
+1856,1853,Luoshan County,4,0
+1857,1853,Quang Son County,4,0
+1858,1853,Xinxian County,4,0
+1859,1853,Shangcheng County,4,0
+1860,1853,Gushi County,4,0
+1861,1853,Huangchuan County,4,0
+1862,1853,Huaibin County,4,0
+1863,1853,Xi County,4,0
+1864,1712,Zhoukou City,3,466000
+1865,1864,Chuanhui District,4,0
+1866,1864,Fugou County,4,0
+1867,1864,Xihua County,4,0
+1868,1864,Shangshui County,4,0
+1869,1864,Shenqiu County,4,0
+1870,1864,Dancheng County,4,0
+1871,1864,Huaiyang County,4,0
+1872,1864,Taikang County,4,0
+1873,1864,Luyi County,4,0
+1874,1864,Xiangcheng City,4,0
+1875,1712,Zhumadian City,3,463000
+1876,1875,Yicheng District,4,0
+1877,1875,Xiping County,4,0
+1878,1875,Shangcai County,4,0
+1879,1875,Pingyu County,4,0
+1880,1875,Zhengyang County,4,0
+1881,1875,Qushan County,4,0
+1882,1875,Miyang County,4,0
+1883,1875,Runan County,4,0
+1884,1875,Suiping County,4,0
+1885,1875,Xincai County,4,0
+1886,1,Hubei Province,2,0
+1887,1886,Wuhan City,3,430000
+1888,1887,Jiang'an District,4,0
+1889,1887,Jianghan District,4,0
+1890,1887,Qiaokou District,4,0
+1891,1887,Hanyang District,4,0
+1892,1887,Wuchang District,4,0
+1893,1887,Hongshan District,4,0
+1894,1887,Dongxihu District,4,0
+1895,1887,Hannan District,4,0
+1896,1887,Caidian District,4,0
+1897,1887,Jiangxia District,4,0
+1898,1887,Huangpi District,4,0
+1899,1887,Xinzhou District,4,0
+1900,1886,Huangshi City,3,435000
+1901,1900,Huangshi Port District,4,0
+1902,1900,Xisaishan District,4,0
+1903,1900,Xialu District,4,0
+1904,1900,Tieshan District,4,0
+1905,1900,Yangxin County,4,0
+1906,1900,Daye City,4,0
+1907,1886,Shiyan City,3,442000
+1908,1907,Maojian District,4,0
+1909,1907,Zhangwan,4,0
+1910,1907,Yunxian,4,0
+1911,1907,Yunxi County,4,0
+1912,1907,Zhushan County,4,0
+1913,1907,Zhuxi County,4,0
+1914,1907,Fang County,4,0
+1915,1907,Danjiangkou City,4,0
+1916,1886,Yichang City,3,443000
+1917,1916,Xiling District,4,0
+1918,1916,Wujiagang District,4,0
+1919,1916,Dianjun District,4,0
+1920,1916,Yaoting District,4,0
+1921,1916,Yiling District,4,0
+1922,1916,Yuan'an County,4,0
+1923,1916,Xingshan County,4,0
+1924,1916,Zigui County,4,0
+1925,1916,Changyang Tujia Autonomous County,4,0
+1926,1916,Wufeng Tujia Autonomous County,4,0
+1927,1916,Yidu City,4,0
+1928,1916,Dangyang City,4,0
+1929,1916,Zhijiang City,4,0
+1930,1886,Xiangfan City,3,441000
+1931,1930,Xiangcheng District,4,0
+1932,1930,Fancheng District,4,0
+1933,1930,Xiangyang District,4,0
+1934,1930,Nanzhang County,4,0
+1935,1930,Gucheng County,4,0
+1936,1930,Baokang County,4,0
+1937,1930,Laohekou City,4,0
+1938,1930,Zaoyang City,4,0
+1939,1930,Yicheng City,4,0
+1940,1886,Ezhou City,3,436000
+1941,1940,Liangzihu District,4,0
+1942,1940,Huarong District,4,0
+1943,1940,Echeng District,4,0
+1944,1886,Jingmen City,3,448000
+1945,1944,Dongbao District,4,0
+1946,1944,Daodao District,4,0
+1947,1944,Jingshan County,4,0
+1948,1944,Shayang County,4,0
+1949,1944,Zhongxiang City,4,0
+1950,1886,Xiaogan City,3,432100
+1951,1950,Xiaonan District,4,0
+1952,1950,Xiaochang County,4,0
+1953,1950,Dawu County,4,0
+1954,1950,Yunmeng County,4,0
+1955,1950,Yingcheng City,4,0
+1956,1950,Anlu City,4,0
+1957,1950,Hanchuan City,4,0
+1958,1886,Jingzhou City,3,434000
+1959,1958,Shashi District,4,0
+1960,1958,Jingzhou District,4,0
+1961,1958,Gong'an County,4,0
+1962,1958,Jianli County,4,0
+1963,1958,Gangneung,4,0
+1964,1958,Shishou City,4,0
+1965,1958,Honghu City,4,0
+1966,1958,Songzi City,4,0
+1967,1886,Huanggang City,3,438000
+1968,1967,Huangzhou District,4,0
+1969,1967,Tuanfeng County,4,0
+1970,1967,Hong'an County,4,0
+1971,1967,Luotian County,4,0
+1972,1967,Yingshan County,4,0
+1973,1967,Xishui County,4,0
+1974,1967,Qichun County,4,0
+1975,1967,Huangmei County,4,0
+1976,1967,Macheng City,4,0
+1977,1967,Wuxue City,4,0
+1978,1886,Xianning City,3,437000
+1979,1978,Xian'an District,4,0
+1980,1978,Jiayu County,4,0
+1981,1978,Tongcheng County,4,0
+1982,1978,Chongyang County,4,0
+1983,1978,Tongshan County,4,0
+1984,1978,Chibi City,4,0
+1985,1886,Suizhou City,3,441300
+1986,1985,Zengdu District,4,0
+1987,1985,Guangshui City,4,0
+1988,1886,Enshi Tujia and Miao Autonomous Prefecture,3,445000
+1989,1988,Enshi City,4,0
+1990,1988,Lichuan City,4,0
+1991,1988,Jianshi County,4,0
+1992,1988,Badong County,4,0
+1993,1988,Xuan'en County,4,0
+1994,1988,Xianfeng County,4,0
+1995,1988,Laifeng County,4,0
+1996,1988,Hefeng County,4,0
+1997,1886,Shennongjia,3,442400
+1998,1997,Xiantao City,4,0
+1999,1997,Qianjiang City,4,0
+2000,1997,Tianmen,4,0
+2001,1997,Shennongjia Forest District,4,0
+2002,1,Hunan Province,2,0
+2003,2002,Changsha City,3,410000
+2004,2003,Furong District,4,0
+2005,2003,Tianxin District,4,0
+2006,2003,Yuelu District,4,0
+2007,2003,Kaifu District,4,0
+2008,2003,Yuhua District,4,0
+2009,2003,Changsha County,4,0
+2010,2003,Wangcheng County,4,0
+2011,2003,Ningxiang County,4,0
+2012,2003,Liuyang City,4,0
+2013,2002,Zhuzhou City,3,412000
+2014,2013,Hetang District,4,0
+2015,2013,Lusong District,4,0
+2016,2013,Shifeng District,4,0
+2017,2013,Tianyuan District,4,0
+2018,2013,Zhuzhou County,4,0
+2019,2013,You County,4,0
+2020,2013,Chaling County,4,0
+2021,2013,Yanling County,4,0
+2022,2013,Liling City,4,0
+2023,2002,Xiangtan City,3,411100
+2024,2023,Yuhu District,4,0
+2025,2023,Yuetang District,4,0
+2026,2023,Xiangtan County,4,0
+2027,2023,Xiangxiang City,4,0
+2028,2023,Shaoshan City,4,0
+2029,2002,Hengyang City,3,421000
+2030,2029,Zhuhui District,4,0
+2031,2029,Yanfeng District,4,0
+2032,2029,Shigu District,4,0
+2033,2029,Zhengxiang District,4,0
+2034,2029,Nanyue District,4,0
+2035,2029,Hengyang County,4,0
+2036,2029,Hengnan County,4,0
+2037,2029,Hengshan County,4,0
+2038,2029,Hengdong County,4,0
+2039,2029,Qidong County,4,0
+2040,2029,Leiyang City,4,0
+2041,2029,Changning City,4,0
+2042,2002,Shaoyang City,3,422000
+2043,2042,Shuangqing District,4,0
+2044,2042,Daxiang District,4,0
+2045,2042,Beita District,4,0
+2046,2042,Shaodong County,4,0
+2047,2042,Xinshao County,4,0
+2048,2042,Shaoyang County,4,0
+2049,2042,Longhui County,4,0
+2050,2042,Dongkou County,4,0
+2051,2042,Suining County,4,0
+2052,2042,Xinning County,4,0
+2053,2042,Chengbu Miao Autonomous County,4,0
+2054,2042,Wugang City,4,0
+2055,2002,Yueyang City,3,414000
+2056,2055,Yueyanglou District,4,0
+2057,2055,Yunxi District,4,0
+2058,2055,Junshan District,4,0
+2059,2055,Yueyang County,4,0
+2060,2055,Huarong County,4,0
+2061,2055,Xiangyin County,4,0
+2062,2055,Pingjiang County,4,0
+2063,2055,Miluo City,4,0
+2064,2055,Linxiang City,4,0
+2065,2002,Changde City,3,415000
+2066,2065,Wuling District,4,0
+2067,2065,Dingcheng District,4,0
+2068,2065,Anxiang County,4,0
+2069,2065,Hanshou County,4,0
+2070,2065,Li County,4,0
+2071,2065,Linli County,4,0
+2072,2065,Taoyuan County,4,0
+2073,2065,Shimen County,4,0
+2074,2065,Jinshi City,4,0
+2075,2002,Zhangjiajie City,3,427000
+2076,2075,Yongding District,4,0
+2077,2075,Wulingyuan District,4,0
+2078,2075,Cili County,4,0
+2079,2075,Sangzhi County,4,0
+2080,2002,Yiyang City,3,413000
+2081,2080,Ziyang District,4,0
+2082,2080,Heshan District,4,0
+2083,2080,Yujiang County,4,0
+2084,2080,Taojiang County,4,0
+2085,2080,Anhua County,4,0
+2086,2080,Yuanjiang City,4,0
+2087,2002,Chenzhou City,3,423000
+2088,2087,Beihu District,4,0
+2089,2087,Suxian District,4,0
+2090,2087,Guiyang County,4,0
+2091,2087,Yizhang County,4,0
+2092,2087,Yongxing County,4,0
+2093,2087,Jiahe County,4,0
+2094,2087,Linwu County,4,0
+2095,2087,Rucheng County,4,0
+2096,2087,Guidong County,4,0
+2097,2087,Anren County,4,0
+2098,2087,Zixing City,4,0
+2099,2002,Yongzhou City,3,425000
+2100,2099,Zhishan District,4,0
+2101,2099,Lengshuitan District,4,0
+2102,2099,Qiyang County,4,0
+2103,2099,Dong'an County,4,0
+2104,2099,Shuangpai County,4,0
+2105,2099,Dao County,4,0
+2106,2099,Jiangyong County,4,0
+2107,2099,Ningyuan County,4,0
+2108,2099,Lanshan County,4,0
+2109,2099,Xintian County,4,0
+2110,2099,Jianghua Yao Autonomous County,4,0
+2111,2002,Huaihua City,3,418000
+2112,2111,Hecheng District,4,0
+2113,2111,Zhongfang County,4,0
+2114,2111,Yuanling County,4,0
+2115,2111,Chenxi County,4,0
+2116,2111,Lipu County,4,0
+2117,2111,Huitong County,4,0
+2118,2111,Mayang Miao Autonomous County,4,0
+2119,2111,Xinhuang Dong Autonomous County,4,0
+2120,2111,Zhijiang Dong Autonomous County,4,0
+2121,2111,Jingzhou Miao and Dong Autonomous County,4,0
+2122,2111,Dong Autonomous County,4,0
+2123,2111,Hongjiang City,4,0
+2124,2002,Loudi City,3,417000
+2125,2124,Louxing District,4,0
+2126,2124,Shuangfeng County,4,0
+2127,2124,Xinhua County,4,0
+2128,2124,Lengshuijiang City,4,0
+2129,2124,Lianyuan City,4,0
+2130,2002,Xiangxi Tujia and Miao Autonomous Prefecture,3,416000
+2131,2130,Jishou City,4,0
+2132,2130,Luxi County,4,0
+2133,2130,Fenghuang County,4,0
+2134,2130,Huayuan County,4,0
+2135,2130,Baojing County,4,0
+2136,2130,Guzhang County,4,0
+2137,2130,Yongshun County,4,0
+2138,2130,Longshan County,4,0
+2139,1,Guangdong Province,2,0
+2140,2139,Guangzhou City,3,510000
+2141,2140,Liwan District,4,0
+2142,2140,Yuexiu District,4,0
+2143,2140,Haizhu District,4,0
+2144,2140,Tianhe District,4,0
+2145,2140,Fangcun District,4,0
+2146,2140,Baiyun District,4,0
+2147,2140,Huangpu District,4,0
+2148,2140,Panyu District,4,0
+2149,2140,Huadu District,4,0
+2150,2140,Zengcheng City,4,0
+2151,2140,Conghua City,4,0
+2152,2139,Shaoguan City,3,521000
+2153,2152,Wujiang District,4,0
+2154,2152,Zhenjiang District,4,0
+2155,2152,Qujiang District,4,0
+2156,2152,Sixing,4,0
+2157,2152,Renhua County,4,0
+2158,2152,Wengyuan,4,0
+2159,2152,Ruyuan Yao Autonomous County,4,0
+2160,2152,Xinfeng County,4,0
+2161,2152,Lechang City,4,0
+2162,2152,Nanxiong City,4,0
+2163,2139,Shenzhen,3,518000
+2164,2163,Luohu District,4,0
+2165,2163,Futian District,4,0
+2166,2163,Bao'an District,4,0
+2167,2163,Longgang District,4,0
+2168,2163,Yantian District,4,0
+2169,2139,Zhuhai City,3,519000
+2170,2169,Xiangzhou District,4,0
+2171,2169,Doumen District,4,0
+2172,2169,Jinwan District,4,0
+2173,2139,Shantou City,3,515000
+2174,2173,Longhu District,4,0
+2175,2173,Jinping District,4,0
+2176,2173,Haojiang District,4,0
+2177,2173,Chaoyang District,4,0
+2178,2173,Chaonan District,4,0
+2179,2173,Chenghai District,4,0
+2180,2173,Nanao County,4,0
+2181,2139,Foshan City,3,528000
+2182,2181,Chancheng District,4,0
+2183,2181,Nanhai District,4,0
+2184,2181,Shunde District,4,0
+2185,2181,Sanshui District,4,0
+2186,2181,Gaoming District,4,0
+2187,2139,Jiangmen City,3,529000
+2188,2187,Pengjiang District,4,0
+2189,2187,Jianghai District,4,0
+2190,2187,Xinhui District,4,0
+2191,2187,Taishan City,4,0
+2192,2187,Kaiping City,4,0
+2193,2187,Heshan City,4,0
+2194,2187,Enping City,4,0
+2195,2139,Zhanjiang City,3,524000
+2196,2195,Chikan District,4,0
+2197,2195,Xiashan District,4,0
+2198,2195,Potou District,4,0
+2199,2195,Mazhang District,4,0
+2200,2195,Suixi County,4,0
+2201,2195,Xuwen County,4,0
+2202,2195,Lianjiang City,4,0
+2203,2195,Leizhou City,4,0
+2204,2195,Wuchuan City,4,0
+2205,2139,Maoming City,3,525000
+2206,2205,Maonan District,4,0
+2207,2205,Maogang District,4,0
+2208,2205,Dianbai County,4,0
+2209,2205,Gaozhou City,4,0
+2210,2205,Huazhou City,4,0
+2211,2205,Xinyi City,4,0
+2212,2139,Zhaoqing City,3,526000
+2213,2212,Duanzhou District,4,0
+2214,2212,Dinghu District,4,0
+2215,2212,Quang Ninh County,4,0
+2216,2212,Huaiji County,4,0
+2217,2212,Fengkai County,4,0
+2218,2212,Deqing County,4,0
+2219,2212,Gaoyao City,4,0
+2220,2212,Sihui City,4,0
+2221,2139,Huizhou City,3,516000
+2222,2221,Huicheng District,4,0
+2223,2221,Huiyang District,4,0
+2224,2221,Boluo County,4,0
+2225,2221,Huidong County,4,0
+2226,2221,Longmen County,4,0
+2227,2139,Meizhou City,3,514000
+2228,2227,Meijiang District,4,0
+2229,2227,Mei County,4,0
+2230,2227,Dapu County,4,0
+2231,2227,Fengshun County,4,0
+2232,2227,Wuhua County,4,0
+2233,2227,Pingyuan County,4,0
+2234,2227,Jiaoling County,4,0
+2235,2227,Xingning City,4,0
+2236,2139,Shanwei City,3,516600
+2237,2236,Haifeng County,4,0
+2238,2236,Luhe County,4,0
+2239,2236,Lufeng City,4,0
+2240,2139,Heyuan City,3,517000
+2241,2240,Yuancheng District,4,0
+2242,2240,Zijin County,4,0
+2243,2240,Longchuan County,4,0
+2244,2240,Lianping County,4,0
+2245,2240,Heping County,4,0
+2246,2240,Dongyuan,4,0
+2247,2139,Yangjiang City,3,529500
+2248,2247,Jiangcheng District,4,0
+2249,2247,Yangxi County,4,0
+2250,2247,Yangdong County,4,0
+2251,2247,Yangchun City,4,0
+2252,2139,Qingyuan City,3,511500
+2253,2252,Qingcheng District,4,0
+2254,2252,Fogang County,4,0
+2255,2252,Yangshan County,4,0
+2256,2252,Lianshan Zhuang Yao Autonomous County,4,0
+2257,2252,Liannan Yao Autonomous County,4,0
+2258,2252,Qingxin County,4,0
+2259,2252,Yingde,4,0
+2260,2252,Lianzhou City,4,0
+2261,2139,Dongguan City,3,511700
+2262,2139,Zhongshan City,3,528400
+2263,2139,Chaozhou,3,515600
+2264,2263,Xiangqiao District,4,0
+2265,2263,Chao'an County,4,0
+2266,2263,Raoping County,4,0
+2267,2139,Jieyang City,3,522000
+2268,2267,Rongcheng District,4,0
+2269,2267,Jiedong County,4,0
+2270,2267,Jiexi County,4,0
+2271,2267,Huilai County,4,0
+2272,2267,Puning City,4,0
+2273,2139,Yunfu City,3,527300
+2274,2273,Yuncheng District,4,0
+2275,2273,Xinxing County,4,0
+2276,2273,Yunan County,4,0
+2277,2273,Yun'an County,4,0
+2278,2273,Luoding City,4,0
+2279,1,Guangxi Zhuang Autonomous Region,2,0
+2280,2279,Nanning City,3,530000
+2281,2280,Xingning District,4,0
+2282,2280,Qingxiu District,4,0
+2283,2280,Jiangnan District,4,0
+2284,2280,Xixiangtang District,4,0
+2285,2280,Liangqing District,4,0
+2286,2280,Yongning District,4,0
+2287,2280,Wuming County,4,0
+2288,2280,Longan County,4,0
+2289,2280,Mashan County,4,0
+2290,2280,Shanglin County,4,0
+2291,2280,Binyang County,4,0
+2292,2280,Heng County,4,0
+2293,2279,Liuzhou City,3,545000
+2294,2293,Chengzhong District,4,0
+2295,2293,Yufeng District,4,0
+2296,2293,Liunan District,4,0
+2297,2293,Liubei District,4,0
+2298,2293,Liujiang County,4,0
+2299,2293,Liucheng County,4,0
+2300,2293,Luzhai County,4,0
+2301,2293,Rong'an County,4,0
+2302,2293,Rongshui Miao Autonomous County,4,0
+2303,2293,Sanjiang Dong Autonomous County,4,0
+2304,2279,Guilin City,3,541000
+2305,2304,Xiufeng District,4,0
+2306,2304,Diecai District,4,0
+2307,2304,Xiangshan District,4,0
+2308,2304,Qixing District,4,0
+2309,2304,Yanshan District,4,0
+2310,2304,Yangshuo County,4,0
+2311,2304,Lingui County,4,0
+2312,2304,Lingchuan County,4,0
+2313,2304,Quanzhou County,4,0
+2314,2304,Xing'an County,4,0
+2315,2304,Yongfu County,4,0
+2316,2304,Guanyang County,4,0
+2317,2304,Longsheng Autonomous County,4,0
+2318,2304,Resources County,4,0
+2319,2304,Pingle County,4,0
+2320,2304,Lipu County,4,0
+2321,2304,Gongcheng Yao Autonomous County,4,0
+2322,2279,Wuzhou City,3,543000
+2323,2322,Wanxiu District,4,0
+2324,2322,Dieshan District,4,0
+2325,2322,Cheung Chau District,4,0
+2326,2322,Cangwu County,4,0
+2327,2322,Teng County,4,0
+2328,2322,Mengshan County,4,0
+2329,2322,Cenxi City,4,0
+2330,2279,Beihai City,3,536000
+2331,2330,Haicheng District,4,0
+2332,2330,Yinhai District,4,0
+2333,2330,Tieshangang District,4,0
+2334,2330,Hepu County,4,0
+2335,2279,Fangchenggang City,3,538000
+2336,2335,Port District,4,0
+2337,2335,Fangcheng District,4,0
+2338,2335,Shangsi County,4,0
+2339,2335,Dongxing City,4,0
+2340,2279,Qinzhou City,3,535000
+2341,2340,Chin Nam District,4,0
+2342,2340,Qinbei District,4,0
+2343,2340,Lingshan County,4,0
+2344,2340,Pubei County,4,0
+2345,2279,Guigang City,3,537100
+2346,2345,Gangbuk,4,0
+2347,2345,Gangnan District,4,0
+2348,2345,Qintang District,4,0
+2349,2345,Pingnan County,4,0
+2350,2345,Guiping City,4,0
+2351,2279,Yulin City,3,537000
+2352,2351,Yuzhou District,4,0
+2353,2351,Rong County,4,0
+2354,2351,Luchuan County,4,0
+2355,2351,Bobai County,4,0
+2356,2351,Xingye County,4,0
+2357,2351,Beiliu City,4,0
+2358,2279,Baise City,3,533000
+2359,2358,Youjiang District,4,0
+2360,2358,Tianyang County,4,0
+2361,2358,Tiandong County,4,0
+2362,2358,Pingguo County,4,0
+2363,2358,Debao County,4,0
+2364,2358,Jingxi County,4,0
+2365,2358,Napo County,4,0
+2366,2358,Lingyun County,4,0
+2367,2358,Leye County,4,0
+2368,2358,Tianlin,4,0
+2369,2358,Xilin County,4,0
+2370,2358,Longlin Autonomous County,4,0
+2371,2279,Hezhou City,3,542800
+2372,2371,Babu District,4,0
+2373,2371,Chao Binh County,4,0
+2374,2371,Zhongshan County,4,0
+2375,2371,Buchuan Yao Autonomous County,4,0
+2376,2279,Hechi City,3,547000
+2377,2376,Jinchengjiang District,4,0
+2378,2376,Nandan County,4,0
+2379,2376,Tian'e County,4,0
+2380,2376,Fengshan County,4,0
+2381,2376,Donglan County,4,0
+2382,2376,Luocheng Gelao Autonomous County,4,0
+2383,2376,Huanjiang Maonan Autonomous County,4,0
+2384,2376,Bama Yao Autonomous County,4,0
+2385,2376,Du'an Yao Autonomous County,4,0
+2386,2376,Dahua Yao Autonomous County,4,0
+2387,2376,Yizhou City,4,0
+2388,2279,Laibin City,3,546100
+2389,2388,Xingbin District,4,0
+2390,2388,Xincheng County,4,0
+2391,2388,Xiangzhou County,4,0
+2392,2388,Wuxuan County,4,0
+2393,2388,Jinxiu Yao Autonomous County,4,0
+2394,2388,Heshan City,4,0
+2395,2279,Chongzuo City,3,532200
+2396,2395,Jiangzhou District,4,0
+2397,2395,Fusui County,4,0
+2398,2395,Ningming County,4,0
+2399,2395,Longzhou County,4,0
+2400,2395,Daxin County,4,0
+2401,2395,Tianzhi County,4,0
+2402,2395,Pingxiang City,4,0
+2403,1,Hainan Province,2,0
+2404,2403,Haikou City,3,570000
+2405,2404,Xiuying District,4,0
+2406,2404,Longhua District,4,0
+2407,2404,Qiongshan District,4,0
+2408,2404,Meilan District,4,0
+2409,2403,Sanya City,3,572000
+2410,2409,Wuzhishan City,4,0
+2411,2409,Qionghai City,4,0
+2412,2409,Danzhou City,4,0
+2413,2409,Wenchang City,4,0
+2414,2409,Wanning City,4,0
+2415,2409,Dongfang City,4,0
+2416,2409,Ding'an County,4,0
+2417,2409,Tunchang County,4,0
+2418,2409,Chengmai County,4,0
+2419,2409,Lingao County,4,0
+2420,2409,Baishali Autonomous County,4,0
+2421,2409,Changjiang Li Autonomous County,4,0
+2422,2409,Ledong Li Autonomous County,4,0
+2423,2409,Lingshui Li Autonomous County,4,0
+2424,2409,Baoting Li and Miao Autonomous County,4,0
+2425,2409,Qiongzhong Li and Miao Autonomous County,4,0
+2426,2409,Paracel Islands,4,0
+2427,2409,Nansha Islands,4,0
+2428,2409,Zhongsha Islands,4,0
+2429,1,Chongqing City,2,0
+2430,2429,Chongqing City,3,400000
+2431,2430,Wanzhou District,4,0
+2432,2430,Fuling District,4,0
+2433,2430,Yuzhong District,4,0
+2434,2430,Dadukou District,4,0
+2435,2430,Shapingba District,4,0
+2436,2430,Jiulongpo District,4,0
+2437,2430,Nan'an District,4,0
+2438,2430,Beibei District,4,0
+2439,2430,Wansheng District,4,0
+2440,2430,Yubei District,4,0
+2441,2430,Banan District,4,0
+2442,2430,Qianjiang District,4,0
+2443,2430,Changshou District,4,0
+2444,2430,Qijiang County,4,0
+2445,2430,Tongnan County,4,0
+2446,2430,Tongliang County,4,0
+2447,2430,Dazu County,4,0
+2448,2430,Rongchang County,4,0
+2449,2430,Bishan County,4,0
+2450,2430,Liangping County,4,0
+2451,2430,Chengkou County,4,0
+2452,2430,Fengdu County,4,0
+2453,2430,Dianjiang County,4,0
+2454,2430,Wulong County,4,0
+2455,2430,Trung District,4,0
+2456,2430,Kai,4,0
+2457,2430,Yunyang County,4,0
+2458,2430,Fengjie County,4,0
+2459,2430,Wushan County,4,0
+2460,2430,Wuxi County,4,0
+2461,2430,Shizhu Tujia Autonomous County,4,0
+2462,2430,Xiushan Tujia and Miao Autonomous County,4,0
+2463,2430,Youyang Tujia and Miao Autonomous County,4,0
+2464,2430,Pengshui Miao Tujia Autonomous County,4,0
+2465,2430,Jiangjin City,4,0
+2466,2430,Hechuan City,4,0
+2467,2430,Yongchuan City,4,0
+2468,2430,Nanchuan City,4,0
+2469,1,Sichuan Province,2,0
+2470,2469,Chengdu,3,610000
+2471,2470,Jinjiang District,4,0
+2472,2470,Qingyang District,4,0
+2473,2470,Jinniu District,4,0
+2474,2470,Wuhou District,4,0
+2475,2470,Chenghua District,4,0
+2476,2470,Longquanyi District,4,0
+2477,2470,Qingbaijiang District,4,0
+2478,2470,Xindu District,4,0
+2479,2470,Wenjiang District,4,0
+2480,2470,Jintang County,4,0
+2481,2470,Shuangliu County,4,0
+2482,2470,Pi County,4,0
+2483,2470,Dayi County,4,0
+2484,2470,Pujiang County,4,0
+2485,2470,Xinjin County,4,0
+2486,2470,Dujiangyan City,4,0
+2487,2470,Pengzhou City,4,0
+2488,2470,Qionglai City,4,0
+2489,2470,Chongzhou City,4,0
+2490,2469,Zigong City,3,643000
+2491,2490,Ziliujing District,4,0
+2492,2490,Gongjing District,4,0
+2493,2490,Daan District,4,0
+2494,2490,Yantan District,4,0
+2495,2490,Rong County,4,0
+2496,2490,Fushun County,4,0
+2497,2469,Panzhihua City,3,617000
+2498,2497,East District,4,0
+2499,2497,West District,4,0
+2500,2497,Renhe District,4,0
+2501,2497,Miyi County,4,0
+2502,2497,Yanbian County,4,0
+2503,2469,Luzhou City,3,646100
+2504,2503,Jiangyang District,4,0
+2505,2503,Naxi,4,0
+2506,2503,Longmatan District,4,0
+2507,2503,Lu County,4,0
+2508,2503,Hejiang County,4,0
+2509,2503,Xuyong County,4,0
+2510,2503,Gulin County,4,0
+2511,2469,Deyang City,3,618000
+2512,2511,Jingyang District,4,0
+2513,2511,Zhongjiang County,4,0
+2514,2511,Luojiang County,4,0
+2515,2511,Guanghan City,4,0
+2516,2511,Shifang City,4,0
+2517,2511,Mianzhu City,4,0
+2518,2469,Mianyang City,3,621000
+2519,2518,Fucheng District,4,0
+2520,2518,Youxian District,4,0
+2521,2518,Santai County,4,0
+2522,2518,Yanting County,4,0
+2523,2518,An County,4,0
+2524,2518,Zitong County,4,0
+2525,2518,Beichuan Qiang Autonomous County,4,0
+2526,2518,Pingwu County,4,0
+2527,2518,Jiangyou City,4,0
+2528,2469,Guangyuan City,3,628000
+2529,2528,Yuanba District,4,0
+2530,2528,Chaotian District,4,0
+2531,2528,Wangcang County,4,0
+2532,2528,Qingchuan County,4,0
+2533,2528,Jiange County,4,0
+2534,2528,Cangxi County,4,0
+2535,2469,Suining City,3,629000
+2536,2535,Chuanshan District,4,0
+2537,2535,Anju District,4,0
+2538,2535,Pengxi County,4,0
+2539,2535,Shehong County,4,0
+2540,2535,Daying County,4,0
+2541,2469,Neijiang City,3,641000
+2542,2541,Dongxing District,4,0
+2543,2541,Weiyuan County,4,0
+2544,2541,Zizhong County,4,0
+2545,2541,Longchang County,4,0
+2546,2469,Weidong District,3,614000
+2547,2546,Shawan District,4,0
+2548,2546,Wutongqiao District,4,0
+2549,2546,Jinkouhe District,4,0
+2550,2546,Qianwei County,4,0
+2551,2546,Jingyan County,4,0
+2552,2546,Jiajiang County,4,0
+2553,2546,Muchuan County,4,0
+2554,2546,Ebian Yi Autonomous County,4,0
+2555,2546,Mabian Yi Autonomous County,4,0
+2556,2546,Emeishan City,4,0
+2557,2469,Nanchong City,3,637000
+2558,2557,Shunqing,4,0
+2559,2557,Gaoping District,4,0
+2560,2557,Jialing District,4,0
+2561,2557,Nanfang County,4,0
+2562,2557,Yingshan County,4,0
+2563,2557,Peng'an County,4,0
+2564,2557,Yilong County,4,0
+2565,2557,Xichong County,4,0
+2566,2557,Langzhong City,4,0
+2567,2469,Meishan City,3,612100
+2568,2567,Dongpo District,4,0
+2569,2567,Renshou County,4,0
+2570,2567,Pengshan County,4,0
+2571,2567,Hongya County,4,0
+2572,2567,Danling County,4,0
+2573,2567,Qingshen County,4,0
+2574,2469,Yibin City,3,644000
+2575,2574,Cuiping District,4,0
+2576,2574,Yibin County,4,0
+2577,2574,Nanxi County,4,0
+2578,2574,Jiang'an County,4,0
+2579,2574,Changning County,4,0
+2580,2574,Gao County,4,0
+2581,2574,Jing County,4,0
+2582,2574,Yunlian County,4,0
+2583,2574,Xingwen County,4,0
+2584,2574,Pingshan County,4,0
+2585,2469,Guang'an City,3,638000
+2586,2585,Guang'an District,4,0
+2587,2585,Yuechi County,4,0
+2588,2585,Wusheng County,4,0
+2589,2585,Linshui County,4,0
+2590,2585,Huaying City,4,0
+2591,2469,Dazhou City,3,635000
+2592,2591,Tongchuan District,4,0
+2593,2591,Da County,4,0
+2594,2591,Xuanhan County,4,0
+2595,2591,Kaijiang County,4,0
+2596,2591,Dazhu County,4,0
+2597,2591,Qu County,4,0
+2598,2591,Wanyuan City,4,0
+2599,2469,Ya'an City,3,625000
+2600,2599,Yucheng District,4,0
+2601,2599,Mingshan County,4,0
+2602,2599,Yingjing County,4,0
+2603,2599,Hanyuan County,4,0
+2604,2599,Shimian County,4,0
+2605,2599,Tianquan County,4,0
+2606,2599,Lushan County,4,0
+2607,2599,Baoxing County,4,0
+2608,2469,Bazhong City,3,635500
+2609,2608,Bazhou District,4,0
+2610,2608,Tongjiang County,4,0
+2611,2608,Nanjiang County,4,0
+2612,2608,Pyeongchang County,4,0
+2613,2469,Ziyang City,3,641300
+2614,2613,Yanjiang District,4,0
+2615,2613,Anyue County,4,0
+2616,2613,Lezhi County,4,0
+2617,2613,Jianyang City,4,0
+2618,2469,Aba Tibetan and Qiang Autonomous Prefecture,3,624600
+2619,2618,Wenchuan County,4,0
+2620,2618,Li County,4,0
+2621,2618,Mao County,4,0
+2622,2618,Song Phan District,4,0
+2623,2618,Jiuzhaigou County,4,0
+2624,2618,Jinchuan County,4,0
+2625,2618,Xiaojin County,4,0
+2626,2618,Heishui County,4,0
+2627,2618,Malkang County,4,0
+2628,2618,Yangtang County,4,0
+2629,2618,Aba County,4,0
+2630,2618,Ruoergai County,4,0
+2631,2618,Hongyuan County,4,0
+2632,2469,Ganzi Tibetan Autonomous Prefecture,3,626000
+2633,2632,Kangding County,4,0
+2634,2632,Luding County,4,0
+2635,2632,Danba District,4,0
+2636,2632,Jiulong County,4,0
+2637,2632,Yajiang County,4,0
+2638,2632,Daofu County,4,0
+2639,2632,Luhuo County,4,0
+2640,2632,Ganzi County,4,0
+2641,2632,Tan Long District,4,0
+2642,2632,Derge County,4,0
+2643,2632,Baiyu County,4,0
+2644,2632,Shiqu County,4,0
+2645,2632,Seda County,4,0
+2646,2632,Litang County,4,0
+2647,2632,Batang County,4,0
+2648,2632,Xiangcheng County,4,0
+2649,2632,Daocheng County,4,0
+2650,2632,Derong County,4,0
+2651,2469,Liangshan Yi Autonomous Prefecture,3,615000
+2652,2651,Xichang City,4,0
+2653,2651,Muli Tibetan Autonomous County,4,0
+2654,2651,Yanyuan County,4,0
+2655,2651,Dechang County,4,0
+2656,2651,Huili County,4,0
+2657,2651,Huidong County,4,0
+2658,2651,Ningnan County,4,0
+2659,2651,Puge County,4,0
+2660,2651,Butuo County,4,0
+2661,2651,Jinyang County,4,0
+2662,2651,Zhaojue County,4,0
+2663,2651,Xide County,4,0
+2664,2651,Mianning County,4,0
+2665,2651,Yuexi County,4,0
+2666,2651,Ganluo County,4,0
+2667,2651,Meigu County,4,0
+2668,2651,Leibo County,4,0
+2669,1,Guizhou Province,2,0
+2670,2669,Guiyang City,3,55000
+2671,2670,Nanming District,4,0
+2672,2670,Yunyan District,4,0
+2673,2670,Huaxi District,4,0
+2674,2670,Wudang District,4,0
+2675,2670,Xiaohe District,4,0
+2676,2670,Kaiyang County,4,0
+2677,2670,Xifeng County,4,0
+2678,2670,Xiuwen County,4,0
+2679,2670,Qingzhen City,4,0
+2680,2669,Liupanshui City,3,553000
+2681,2680,Zhongshan District,4,0
+2682,2680,Liuzhi Special Economic Zone,4,0
+2683,2680,Shuicheng County,4,0
+2684,2680,Pan County,4,0
+2685,2669,Zunyi City,3,563000
+2686,2685,Honghuagang District,4,0
+2687,2685,Huichuan District,4,0
+2688,2685,Zunyi County,4,0
+2689,2685,Tongzi County,4,0
+2690,2685,Suiyang County,4,0
+2691,2685,Zheng'an County,4,0
+2692,2685,Daozhen Lao and Miao Autonomous County,4,0
+2693,2685,Wuchuan Gelao and Miao Autonomous County,4,0
+2694,2685,Fenggang County,4,0
+2695,2685,Meitan County,4,0
+2696,2685,Yuqing County,4,0
+2697,2685,Xishui County,4,0
+2698,2685,Chishui City,4,0
+2699,2685,Renhuai City,4,0
+2700,2669,Anshun City,3,561000
+2701,2700,Xixiu District,4,0
+2702,2700,Pingba County,4,0
+2703,2700,Puding County,4,0
+2704,2700,Zhenning Buyi and Miao Autonomous County,4,0
+2705,2700,Guanling Buyi and Miao Autonomous County,4,0
+2706,2700,Ziyun Miao Buyi Autonomous County,4,0
+2707,2669,Tongren District,3,554300
+2708,2707,Tongren City,4,0
+2709,2707,Jiangkou County,4,0
+2710,2707,Yuping Dong Autonomous County,4,0
+2711,2707,Shiqian County,4,0
+2712,2707,Sinan County,4,0
+2713,2707,Yinjiang Tujia and Miao Autonomous County,4,0
+2714,2707,Dejiang County,4,0
+2715,2707,Yanhe Tujia Autonomous County,4,0
+2716,2707,Songtao Miao Autonomous County,4,0
+2717,2707,Wanshan Special Zone,4,0
+2718,2669,Southwest Guizhou Buyi and Miao Autonomous Prefecture,3,551500
+2719,2718,Xingyi City,4,0
+2720,2718,Xingren County,4,0
+2721,2718,Pu'an County,4,0
+2722,2718,Qinglong County,4,0
+2723,2718,Zhenfeng County,4,0
+2724,2718,Wangmo County,4,0
+2725,2718,Caiheng County,4,0
+2726,2718,Anlong County,4,0
+2727,2669,Bijie District,3,551700
+2728,2727,Bijie City,4,0
+2729,2727,Dafang County,4,0
+2730,2727,Qianxi County,4,0
+2731,2727,Jinsha County,4,0
+2732,2727,Zhijin County,4,0
+2733,2727,Nayong County,4,0
+2734,2727,Weining Yi Hui and Miao Autonomous County,4,0
+2735,2727,Hezhang County,4,0
+2736,2669,Qiandongnan Miao and Dong Autonomous Prefecture,3,551500
+2737,2736,Kaili City,4,0
+2738,2736,Huangping County,4,0
+2739,2736,Shibing County,4,0
+2740,2736,Sansui County,4,0
+2741,2736,Zhenyuan County,4,0
+2742,2736,Cengong County,4,0
+2743,2736,Tianzhu County,4,0
+2744,2736,Jinping County,4,0
+2745,2736,Jianhe County,4,0
+2746,2736,Taijiang County,4,0
+2747,2736,Le Binh County,4,0
+2748,2736,Rongjiang County,4,0
+2749,2736,Congjiang County,4,0
+2750,2736,Leishan County,4,0
+2751,2736,Leshan City,4,0
+2752,2736,Danzhai County,4,0
+2753,2669,Qiannan Buyi and Miao Autonomous Prefecture,3,550100
+2754,2753,Duyun City,4,0
+2755,2753,Fuquan City,4,0
+2756,2753,Libo County,4,0
+2757,2753,Guiding County,4,0
+2758,2753,Weng'an County,4,0
+2759,2753,Dushan County,4,0
+2760,2753,Pingtang County,4,0
+2761,2753,Luodian County,4,0
+2762,2753,Changshun County,4,0
+2763,2753,Longli County,4,0
+2764,2753,Huishui County,4,0
+2765,2753,Sandu Shui Autonomous County,4,0
+2766,1,Yunnan Province,2,0
+2767,2766,Kunming City,3,650000
+2768,2767,Wuhua District,4,0
+2769,2767,Panlong District,4,0
+2770,2767,Guandu District,4,0
+2771,2767,Xishan District,4,0
+2772,2767,Dongchuan District,4,0
+2773,2767,Chenggong County,4,0
+2774,2767,Jinning County,4,0
+2775,2767,Fumin County,4,0
+2776,2767,Yiliang County,4,0
+2777,2767,Shilin Yi Autonomous County,4,0
+2778,2767,Songming County,4,0
+2779,2767,Luquan Yi and Miao Autonomous County,4,0
+2780,2767,Xundian Hui Yi Autonomous County,4,0
+2781,2767,Anning City,4,0
+2782,2766,Qujing City,3,655000
+2783,2782,Qilin District,4,0
+2784,2782,Malone County,4,0
+2785,2782,Luliang County,4,0
+2786,2782,Shizong County,4,0
+2787,2782,Luoping County,4,0
+2788,2782,Fuyuan,4,0
+2789,2782,Huize County,4,0
+2790,2782,Zhanyi County,4,0
+2791,2782,Xuanwei City,4,0
+2792,2766,Yuxi City,3,653100
+2793,2792,Hongta District,4,0
+2794,2792,Jiangchuan County,4,0
+2795,2792,Chengjiang County,4,0
+2796,2792,Tonghai County,4,0
+2797,2792,Huaning County,4,0
+2798,2792,Yimen County,4,0
+2799,2792,Asan Yi Autonomous County,4,0
+2800,2792,Xinping Yi Dai Autonomous County,4,0
+2801,2792,Yuanjiang Hani Yi Dai Autonomous County,4,0
+2802,2766,Baoshan City,3,678000
+2803,2802,Longyang District,4,0
+2804,2802,Shidian County,4,0
+2805,2802,Tengchong County,4,0
+2806,2802,Longling County,4,0
+2807,2802,Changning County,4,0
+2808,2766,Zhaotong City,3,657000
+2809,2808,Zhaoyang District,4,0
+2810,2808,Ludian County,4,0
+2811,2808,Qiaojia County,4,0
+2812,2808,Yanjin County,4,0
+2813,2808,Daguan County,4,0
+2814,2808,Yongshan County,4,0
+2815,2808,Suijiang County,4,0
+2816,2808,Zhenxiong County,4,0
+2817,2808,Yiliang County,4,0
+2818,2808,Weixin County,4,0
+2819,2808,Shuifu County,4,0
+2820,2766,Lijiang City,3,674100
+2821,2820,Gucheng District,4,0
+2822,2820,Yulong Naxi Autonomous County,4,0
+2823,2820,Yongsheng County,4,0
+2824,2820,Huaping County,4,0
+2825,2820,Ninglang Yi Autonomous County,4,0
+2826,2766,Simao City,3,665000
+2827,2826,Cuiyun District,4,0
+2828,2826,Pu'er Hani Yi Autonomous County,4,0
+2829,2826,Mojiang Hani Autonomous County,4,0
+2830,2826,Jingdong Yi Autonomous County,4,0
+2831,2826,Jinggu Dai and Yi Autonomous County,4,0
+2832,2826,Zhenyuan Yi Hani Lahu Autonomous County,4,0
+2833,2826,Jiangcheng Hani Yi Autonomous County,4,0
+2834,2826,Menglian Dai Lahu Wa Autonomous County,4,0
+2835,2826,Lancang Lahu Autonomous County,4,0
+2836,2826,Ximeng Wa Autonomous County,4,0
+2837,2766,Lincang City,3,677000
+2838,2837,Linxiang District,4,0
+2839,2837,Fengqing County,4,0
+2840,2837,Yun County,4,0
+2841,2837,Yongde County,4,0
+2842,2837,Zhenkang County,4,0
+2843,2837,Shuangjiang Lahu Wa Brown Dai Autonomous County,4,0
+2844,2837,Gengma Dai Wa Autonomous County,4,0
+2845,2837,Cangyuan Wa Autonomous County,4,0
+2846,2766,Chuxiong Yi Autonomous Prefecture,3,675000
+2847,2846,Chuxiong City,4,0
+2848,2846,Shuangbai County,4,0
+2849,2846,Muding County,4,0
+2850,2846,Nanhua County,4,0
+2851,2846,Yao'an County,4,0
+2852,2846,Dayao County,4,0
+2853,2846,Yongren County,4,0
+2854,2846,Yuanmou County,4,0
+2855,2846,Wuding County,4,0
+2856,2846,Lufeng County,4,0
+2857,2766,Honghe Hani Yi Autonomous Prefecture,3,654400
+2858,2857,Gejiu City,4,0
+2859,2857,Kaiyuan City,4,0
+2860,2857,Mengzi County,4,0
+2861,2857,Pingbian Miao Autonomous County,4,0
+2862,2857,Jianshui County,4,0
+2863,2857,Shiping County,4,0
+2864,2857,Maitreya County,4,0
+2865,2857,Luxi County,4,0
+2866,2857,Yuanyang County,4,0
+2867,2857,Honghe County,4,0
+2868,2857,Jinping Miao Yao Dai Autonomous County,4,0
+2869,2857,Luchun County,4,0
+2870,2857,Hekou Yao Autonomous County,4,0
+2871,2766,Wenshan Zhuang and Miao Autonomous Prefecture,3,663000
+2872,2871,Wenshan County,4,0
+2873,2871,Yanshan County,4,0
+2874,2871,Xichou County,4,0
+2875,2871,Malipo County,4,0
+2876,2871,Maguan County,4,0
+2877,2871,Qiubei County,4,0
+2878,2871,Quang Nam County,4,0
+2879,2871,Funing County,4,0
+2880,2766,Xishuangbanna Dai Autonomous Prefecture,3,666200
+2881,2880,Jinghong City,4,0
+2882,2880,Menghai County,4,0
+2883,2880,Mengla County,4,0
+2884,2766,Dali Bai Autonomous Prefecture,3,671000
+2885,2884,Dali City,4,0
+2886,2884,Yangbi Yi Autonomous County,4,0
+2887,2884,Xiangyun County,4,0
+2888,2884,Binchuan County,4,0
+2889,2884,Midu County,4,0
+2890,2884,Nanjian Yi Autonomous County,4,0
+2891,2884,Weishan Yi Hui Autonomous County,4,0
+2892,2884,Yongping County,4,0
+2893,2884,Yunlong County,4,0
+2894,2884,Eryuan County,4,0
+2895,2884,Jianchuan County,4,0
+2896,2884,Heqing County,4,0
+2897,2766,Dehong Dai Jingpo Autonomous Prefecture,3,678400
+2898,2897,Ruili City,4,0
+2899,2897,Luxi City,4,0
+2900,2897,Lianghe County,4,0
+2901,2897,Yingjiang County,4,0
+2902,2897,Longchuan County,4,0
+2903,2766,Nujiang Lisu Autonomous Prefecture,3,671400
+2904,2903,Lushui County,4,0
+2905,2903,Fugong County,4,0
+2906,2903,Gongshan Dulong Nu Autonomous County,4,0
+2907,2903,Lanping Bai Pumi Autonomous County,4,0
+2908,2766,Diqing Tibetan Autonomous Prefecture,3,674400
+2909,2908,Shangri-La County,4,0
+2910,2908,Deqin County,4,0
+2911,2908,Weixi Lisu Autonomous County,4,0
+2912,1,Tibet Autonomous Region,2,0
+2913,2912,Lhasa City,3,850000
+2914,2913,Chengguan District,4,0
+2915,2913,Linzhou County,4,0
+2916,2913,Dangxiong County,4,0
+2917,2913,Nimu County,4,0
+2918,2913,Qushui County,4,0
+2919,2913,Duilong Deqing County,4,0
+2920,2913,Dazi County,4,0
+2921,2913,Mozhugongka County,4,0
+2922,2912,Qamdo District,3,854000
+2923,2922,Qamdo County,4,0
+2924,2922,Jiangda County,4,0
+2925,2922,Gongjue County,4,0
+2926,2922,Wuqi County,4,0
+2927,2922,Dingqing County,4,0
+2928,2922,Chaya County,4,0
+2929,2922,Basu County,4,0
+2930,2922,Zuogong County,4,0
+2931,2922,Mangkang County,4,0
+2932,2922,Luolong County,4,0
+2933,2922,Bienba County,4,0
+2934,2912,Shannan Region,3,856000
+2935,2934,Naidong County,4,0
+2936,2934,Zhanang County,4,0
+2937,2934,Gongga County,4,0
+2938,2934,Sangri County,4,0
+2939,2934,Qiongjie County,4,0
+2940,2934,Qusong County,4,0
+2941,2934,Cuomei County,4,0
+2942,2934,Lozha County,4,0
+2943,2934,Gacha County,4,0
+2944,2934,Longzi County,4,0
+2945,2934,Cuona County,4,0
+2946,2934,Langkazi County,4,0
+2947,2912,Shigatse District,3,857000
+2948,2947,Shigatse City,4,0
+2949,2947,Nanmulin County,4,0
+2950,2947,Gyantse County,4,0
+2951,2947,Dingri County,4,0
+2952,2947,Sakya County,4,0
+2953,2947,Latse County,4,0
+2954,2947,Angren County,4,0
+2955,2947,Xie Tongmen County,4,0
+2956,2947,Bailang County,4,0
+2957,2947,Renbu County,4,0
+2958,2947,Kangma County,4,0
+2959,2947,Dingjie County,4,0
+2960,2947,Zhongba County,4,0
+2961,2947,Yadong County,4,0
+2962,2947,Jilong County,4,0
+2963,2947,Nyalam County,4,0
+2964,2947,Saga County,4,0
+2965,2947,Gamba County,4,0
+2966,2912,Nagqu District,3,852000
+2967,2966,Nagqu County,4,0
+2968,2966,Jiali County,4,0
+2969,2966,such as County,4,0
+2970,2966,Nie Rong County,4,0
+2971,2966,Amdo County,4,0
+2972,2966,Shenzha County,4,0
+2973,2966,Suo County,4,0
+2974,2966,Bangor County,4,0
+2975,2966,Baqing County,4,0
+2976,2966,Nima County,4,0
+2977,2912,Ali District,3,859100
+2978,2977,Pulan County,4,0
+2979,2977,Zada District,4,0
+2980,2977,Gar County,4,0
+2981,2977,Ritu County,4,0
+2982,2977,Geji County,4,0
+2983,2977,Gaize County,4,0
+2984,2977,Cuoqin County,4,0
+2985,2912,Nyingchi District,3,860100
+2986,2985,Nyingchi County,4,0
+2987,2985,Gongbu Gangda County,4,0
+2988,2985,Milin County,4,0
+2989,2985,Motuo County,4,0
+2990,2985,Bomi County,4,0
+2991,2985,Chayu County,4,0
+2992,2985,Lang County,4,0
+2993,1,Shaanxi Province,2,0
+2994,2993,Xi'an City,3,710000
+2995,2994,Beilin District,4,0
+2996,2994,Lianhu District,4,0
+2997,2994,Baqiao District,4,0
+2998,2994,Weiyang District,4,0
+2999,2994,Yanta District,4,0
+3000,2994,Yanliang,4,0
+3001,2994,Lintong District,4,0
+3002,2994,Lantian County,4,0
+3003,2994,Zhouzhi County,4,0
+3004,2994,Hu County,4,0
+3005,2994,Gaoling County,4,0
+3006,2993,Tongchuan City,3,727000
+3007,3006,Wangyi District,4,0
+3008,3006,Yintai District,4,0
+3009,3006,Yaozhou District,4,0
+3010,3006,Yijun County,4,0
+3011,2993,Baoji City,3,721000
+3012,3011,Weibin District,4,0
+3013,3011,Jintai District,4,0
+3014,3011,Chencang District,4,0
+3015,3011,Fengxiang County,4,0
+3016,3011,Qishan County,4,0
+3017,3011,Fufeng County,4,0
+3018,3011,Mei County,4,0
+3019,3011,Long County,4,0
+3020,3011,Qianyang County,4,0
+3021,3011,Linyou County,4,0
+3022,3011,Feng County,4,0
+3023,3011,Taibai County,4,0
+3024,2993,Xianyang City,3,712000
+3025,3024,Qindu District,4,0
+3026,3024,Yangling District,4,0
+3027,3024,Weicheng District,4,0
+3028,3024,Sanyuan County,4,0
+3029,3024,Jingyang County,4,0
+3030,3024,Qianxian County,4,0
+3031,3024,Liquan County,4,0
+3032,3024,Yongshou County,4,0
+3033,3024,Bin County,4,0
+3034,3024,Changwu County,4,0
+3035,3024,Xunyi County,4,0
+3036,3024,Chunhua County,4,0
+3037,3024,Wugong County,4,0
+3038,3024,Xingping City,4,0
+3039,2993,Weinan City,3,714000
+3040,3039,Linwei District,4,0
+3041,3039,Hua County,4,0
+3042,3039,Tongguan County,4,0
+3043,3039,Dali County,4,0
+3044,3039,Heyang County,4,0
+3045,3039,Chengcheng County,4,0
+3046,3039,Pucheng County,4,0
+3047,3039,Baishui County,4,0
+3048,3039,Fuping County,4,0
+3049,3039,Hancheng City,4,0
+3050,3039,Huayin City,4,0
+3051,2993,Yan'an City,3,716000
+3052,3051,Baota District,4,0
+3053,3051,Yanchang County,4,0
+3054,3051,Yanchuan County,4,0
+3055,3051,Zichang County,4,0
+3056,3051,Yen Sai District,4,0
+3057,3051,Zhidan County,4,0
+3058,3051,Wuqi County,4,0
+3059,3051,Ganquan County,4,0
+3060,3051,Fu County,4,0
+3061,3051,Luochuan County,4,0
+3062,3051,Yichuan County,4,0
+3063,3051,Huanglong County,4,0
+3064,3051,Huangling County,4,0
+3065,2993,Hanzhong City,3,723000
+3066,3065,Hantai District,4,0
+3067,3065,Nanzheng County,4,0
+3068,3065,Chenggu County,4,0
+3069,3065,Yang County,4,0
+3070,3065,Xixiang County,4,0
+3071,3065,Mian County,4,0
+3072,3065,Ningqiang County,4,0
+3073,3065,Luoyang County,4,0
+3074,3065,Zhenba County,4,0
+3075,3065,Liuba,4,0
+3076,3065,Foping County,4,0
+3077,2993,Yulin City,3,719000
+3078,3077,Yuyang District,4,0
+3079,3077,Shenmu County,4,0
+3080,3077,Fugu County,4,0
+3081,3077,Hengshan County,4,0
+3082,3077,Jingbian County,4,0
+3083,3077,Dingbian,4,0
+3084,3077,Suide County,4,0
+3085,3077,Mizhi County,4,0
+3086,3077,Jia County,4,0
+3087,3077,Wubao County,4,0
+3088,3077,Qingjian County,4,0
+3089,3077,Zizhou County,4,0
+3090,2993,Ankang City,3,725000
+3091,3090,Hanbin District,4,0
+3092,3090,Hanyin District,4,0
+3093,3090,Shiquan County,4,0
+3094,3090,Ningshan County,4,0
+3095,3090,Ziyang County,4,0
+3096,3090,Langao County,4,0
+3097,3090,Pingli County,4,0
+3098,3090,Zhenping County,4,0
+3099,3090,Xunyang County,4,0
+3100,3090,Baihe County,4,0
+3101,2993,Shangluo City,3,711500
+3102,3101,Shangzhou District,4,0
+3103,3101,Luonan County,4,0
+3104,3101,Danfeng County,4,0
+3105,3101,Shangnan County,4,0
+3106,3101,Shanyang County,4,0
+3107,3101,Zhen'an County,4,0
+3108,3101,Zhashui County,4,0
+3109,1,Gansu Province,2,0
+3110,3109,Lanzhou City,3,730000
+3111,3110,Qilihe District,4,0
+3112,3110,Xigu District,4,0
+3113,3110,Anning District,4,0
+3114,3110,Honggu District,4,0
+3115,3110,Yongdeng County,4,0
+3116,3110,Gaolan County,4,0
+3117,3110,Yuzhong County,4,0
+3118,3109,Jiayuguan City,3,735100
+3119,3109,Jinchang City,3,737100
+3120,3119,Jinchuan District,4,0
+3121,3119,Yongchang County,4,0
+3122,3109,Baiyin City,3,730900
+3123,3122,Baiyin District,4,0
+3124,3122,Binh Chuan District,4,0
+3125,3122,Jingyuan County,4,0
+3126,3122,Huining County,4,0
+3127,3122,Jingtai County,4,0
+3128,3109,Tianshui City,3,741000
+3129,3128,Qincheng District,4,0
+3130,3128,Beidao District,4,0
+3131,3128,Qingshui County,4,0
+3132,3128,Qin'an County,4,0
+3133,3128,Gangu District,4,0
+3134,3128,Wushan County,4,0
+3135,3128,Zhangjiachuan Hui Autonomous County,4,0
+3136,3109,Wuwei City,3,733000
+3137,3136,Liangzhou District,4,0
+3138,3136,Minqin County,4,0
+3139,3136,Gulang County,4,0
+3140,3136,Tianzhu Tibetan Autonomous County,4,0
+3141,3109,Zhangye City,3,734000
+3142,3141,Ganzhou District,4,0
+3143,3141,Sunan Yugur Autonomous County,4,0
+3144,3141,Minle County,4,0
+3145,3141,Linze County,4,0
+3146,3141,Gaotai County,4,0
+3147,3141,Shandan County,4,0
+3148,3109,Pingliang City,3,744000
+3149,3148,Kongtong District,4,0
+3150,3148,Jingchuan County,4,0
+3151,3148,Lingtai County,4,0
+3152,3148,Chongxin County,4,0
+3153,3148,Huating County,4,0
+3154,3148,Zhuanglang County,4,0
+3155,3148,Jingning County,4,0
+3156,3109,Jiuquan City,3,735000
+3157,3156,Suzhou District,4,0
+3158,3156,Jinta County,4,0
+3159,3156,Anxi County,4,0
+3160,3156,Subei Mongolian Autonomous County,4,0
+3161,3156,Aksai Kazakh Autonomous County,4,0
+3162,3156,Yumen City,4,0
+3163,3156,Dunhuang City,4,0
+3164,3109,Qingyang City,3,744500
+3165,3164,Xifeng District,4,0
+3166,3164,Qingcheng County,4,0
+3167,3164,Huan County,4,0
+3168,3164,Huachi County,4,0
+3169,3164,Heshui County,4,0
+3170,3164,Zhengning County,4,0
+3171,3164,Ning County,4,0
+3172,3164,Zhenyuan County,4,0
+3173,3109,Dingxi City,3,743000
+3174,3173,Anding District,4,0
+3175,3173,Tongwei County,4,0
+3176,3173,Longxi County,4,0
+3177,3173,Weiyuan County,4,0
+3178,3173,Lintao County,4,0
+3179,3173,Zhangxian County,4,0
+3180,3173,Min County,4,0
+3181,3109,Longnan City,3,742100
+3182,3181,Wudu District,4,0
+3183,3181,Cheng County,4,0
+3184,3181,Wen County,4,0
+3185,3181,Danchang County,4,0
+3186,3181,Kang County,4,0
+3187,3181,Xihe County,4,0
+3188,3181,Li County,4,0
+3189,3181,Hui County,4,0
+3190,3181,Liangdang County,4,0
+3191,3109,Linxia Hui Autonomous Prefecture,3,731100
+3192,3191,Linxia City,4,0
+3193,3191,Linxia County,4,0
+3194,3191,Kangle County,4,0
+3195,3191,Yongjing County,4,0
+3196,3191,Guanghe County,4,0
+3197,3191,Hezheng County,4,0
+3198,3191,Dongxiang Autonomous County,4,0
+3199,3191,Jishishan Baoan Dongxiang Salar Autonomous County,4,0
+3200,3109,Gannan Tibetan Autonomous Prefecture,3,747000
+3201,3200,Cooperative City,4,0
+3202,3200,Lintan County,4,0
+3203,3200,Choni County,4,0
+3204,3200,Zhouqu County,4,0
+3205,3200,Diebe County,4,0
+3206,3200,Maqu County,4,0
+3207,3200,Luqu County,4,0
+3208,3200,Xiahe County,4,0
+3209,1,Qinghai Province,2,0
+3210,3209,Xining City,3,810000
+3211,3210,Chengdong District,4,0
+3212,3210,Chengxi District,4,0
+3213,3210,Chengbei District,4,0
+3214,3210,Datong Hui Tu Autonomous County,4,0
+3215,3210,Huangzhong,4,0
+3216,3210,Huangyuan County,4,0
+3217,3209,Haidong District,3,810600
+3218,3217,Ping'an County,4,0
+3219,3217,Minhe Hui Tu Autonomous County,4,0
+3220,3217,Ledu County,4,0
+3221,3217,Mutual Aid Tu Autonomous County,4,0
+3222,3217,Hualong Hui Autonomous County,4,0
+3223,3217,Xunhua Salar Autonomous County,4,0
+3224,3209,Haibei Tibetan Autonomous Prefecture,3,810300
+3225,3224,Menyuan Hui Autonomous County,4,0
+3226,3224,Qilian County,4,0
+3227,3224,Haiyan County,4,0
+3228,3224,Gangcha County,4,0
+3229,3209,Huangnan Tibetan Autonomous Prefecture,3,811300
+3230,3229,Tongren,4,0
+3231,3229,Jianzha County,4,0
+3232,3229,Zeku County,4,0
+3233,3229,Henan Mongolian Autonomous County,4,0
+3234,3209,Hainan Tibetan Autonomous Prefecture,3,813000
+3235,3234,Gonghe County,4,0
+3236,3234,Tongde County,4,0
+3237,3234,Guide County,4,0
+3238,3234,Xinghai County,4,0
+3239,3234,Guinan County,4,0
+3240,3209,Guoluo Tibetan Autonomous Prefecture,3,814000
+3241,3240,Maqin County,4,0
+3242,3240,Banma County,4,0
+3243,3240,Gander County,4,0
+3244,3240,Dari County,4,0
+3245,3240,Jiuzhi County,4,0
+3246,3240,Maduo County,4,0
+3247,3209,Yushu Tibetan Autonomous Prefecture,3,815000
+3248,3247,Yushu County,4,0
+3249,3247,Zaduo County,4,0
+3250,3247,Chengduo County,4,0
+3251,3247,Zhiduo County,4,0
+3252,3247,Nangqian County,4,0
+3253,3247,Qumalai County,4,0
+3254,3209,Haixi Mongolian and Tibetan Autonomous Prefecture,3,817000
+3255,3254,Golmud City,4,0
+3256,3254,Delingha City,4,0
+3257,3254,Wulan County,4,0
+3258,3254,Dulan County,4,0
+3259,3254,Tianjun County,4,0
+3260,1,Ningxia Hui Autonomous Region,2,0
+3261,3260,Yinchuan City,3,750000
+3262,3261,Xingqing District,4,0
+3263,3261,Xixia District,4,0
+3264,3261,Jinfeng District,4,0
+3265,3261,Yongning County,4,0
+3266,3261,Helan County,4,0
+3267,3261,Lingwu City,4,0
+3268,3260,Shizuishan City,3,753000
+3269,3268,Dawukou District,4,0
+3270,3268,Huinong District,4,0
+3271,3268,Pingluo County,4,0
+3272,3260,Wuzhong City,3,751100
+3273,3272,Litong District,4,0
+3274,3272,Yanchi County,4,0
+3275,3272,Tongxin County,4,0
+3276,3272,Qingtongxia City,4,0
+3277,3260,Guyuan City,3,756000
+3278,3277,Yuanzhou District,4,0
+3279,3277,Xiji County,4,0
+3280,3277,Longde County,4,0
+3281,3277,Jingyuan County,4,0
+3282,3277,Pengyang County,4,0
+3283,3260,Zhongwei City,3,751700
+3284,3283,Shapotou District,4,0
+3285,3283,Zhongning County,4,0
+3286,3283,Haiyuan County,4,0
+3287,1,Xinjiang Uygur Autonomous Region,2,0
+3288,3287,Urumqi City,3,830000
+3289,3288,Tianshan District,4,0
+3290,3288,Shayibak District,4,0
+3291,3288,Shuimogou District,4,0
+3292,3288,Toutunha,4,0
+3293,3288,Dabancheng District,4,0
+3294,3288,Urumqi County,4,0
+3295,3287,Karamay City,3,834000
+3296,3295,Dushanzi District,4,0
+3297,3295,Karamay District,4,0
+3298,3295,Baijiantan District,4,0
+3299,3295,Wuerhe District,4,0
+3300,3287,Turpan District,3,838000
+3301,3300,Turpan City,4,0
+3302,3300,Shanshan County,4,0
+3303,3300,Tuoxun County,4,0
+3304,3287,Hami,3,839000
+3305,3304,Hami City,4,0
+3306,3304,Balikun Kazakh Autonomous County,4,0
+3307,3304,Yiwu County,4,0
+3308,3287,Changji Hui Autonomous Prefecture,3,831100
+3309,3308,Changji City,4,0
+3310,3308,Fukang City,4,0
+3311,3308,Miquan City,4,0
+3312,3308,Hutubi County,4,0
+3313,3308,Manas County,4,0
+3314,3308,Qitai County,4,0
+3315,3308,Jimsar County,4,0
+3316,3308,Mulei Kazakh Autonomous County,4,0
+3317,3287,Bortala Mongolian Autonomous Prefecture,3,833400
+3318,3317,Bole City,4,0
+3319,3317,Jinghe County,4,0
+3320,3317,Hot Spring County,4,0
+3321,3287,Bayingolin Mongolian Autonomous Prefecture,3,841000
+3322,3321,Korla City,4,0
+3323,3321,Luntai,4,0
+3324,3321,Yuli County,4,0
+3325,3321,Ruoqiang District,4,0
+3326,3321,Jimo County,4,0
+3327,3321,Yanqi Hui Autonomous County,4,0
+3328,3321,Hejing County,4,0
+3329,3321,Heshuo County,4,0
+3330,3321,Bohu County,4,0
+3331,3287,Aksu Region,3,843000
+3332,3331,Aksu City,4,0
+3333,3331,Wensu County,4,0
+3334,3331,Kuqa County,4,0
+3335,3331,Shaya County,4,0
+3336,3331,Xinhe County,4,0
+3337,3331,Baicheng County,4,0
+3338,3331,Wushi County,4,0
+3339,3331,Awati County,4,0
+3340,3331,Keping County,4,0
+3341,3287,Kizilsu Kirgiz Autonomous Prefecture,3,835600
+3342,3341,Artush City,4,0
+3343,3341,Aktao County,4,0
+3344,3341,Aheqi County,4,0
+3345,3341,Wucha County,4,0
+3346,3287,Kashgar District,3,844000
+3347,3346,Kashgar City,4,0
+3348,3346,Shufu County,4,0
+3349,3346,Shule County,4,0
+3350,3346,Yingjisha County,4,0
+3351,3346,Zepu County,4,0
+3352,3346,Yache County,4,0
+3353,3346,Yecheng County,4,0
+3354,3346,Maigeti County,4,0
+3355,3346,Yuepuhu County,4,0
+3356,3346,Jiashi County,4,0
+3357,3346,Bachu County,4,0
+3358,3346,Tashkurgan Tajik Autonomous County,4,0
+3359,3287,Hotan District,3,848000
+3360,3359,Hotan City,4,0
+3361,3359,Hotan County,4,0
+3362,3359,Moyu County,4,0
+3363,3359,Pishan County,4,0
+3364,3359,Luopu County,4,0
+3365,3359,Cele County,4,0
+3366,3359,Yutian County,4,0
+3367,3359,Minfeng County,4,0
+3368,3287,Ili Kazakh Autonomous Prefecture,3,833200
+3369,3368,Yining City,4,0
+3370,3368,Kuitun City,4,0
+3371,3368,Yining County,4,0
+3372,3368,Qapqar Xibe Autonomous County,4,0
+3373,3368,Huocheng County,4,0
+3374,3368,Gongliu County,4,0
+3375,3368,Xinyuan County,4,0
+3376,3368,Zhaosu County,4,0
+3377,3368,Turks County,4,0
+3378,3368,Nilek County,4,0
+3379,3287,Tacheng District,3,834700
+3380,3379,Tacheng City,4,0
+3381,3379,Wusu City,4,0
+3382,3379,Emin County,4,0
+3383,3379,Shawan County,4,0
+3384,3379,Tuoli County,4,0
+3385,3379,Yumin County,4,0
+3386,3379,and Buxel Mongolian Autonomous County,4,0
+3387,3287,Altay District,3,836500
+3388,3387,Altay City,4,0
+3389,3387,Burjin County,4,0
+3390,3387,Fuyun County,4,0
+3391,3387,Fuhai County,4,0
+3392,3387,Habahe County,4,0
+3393,3387,Qinghe County,4,0
+3394,3387,Jimuno County,4,0
+3395,3287,Shihezi City,3,832000
+3396,3287,Alar City,3,843300
+3397,3287,Tumshuk City,3,843900
+3398,3287,Wujiaqu City,3,831300
+3399,1,Hong Kong SAR,2,0
+3400,3399,Hong Kong SAR,3,0
+3401,1,Macau SAR,2,0
+3402,3401,Macau SAR,3,0
+3403,1,Taiwan Province,2,0
+3404,3403,Taiwan Province,3,0
+3405,0,Bosnia and Herzegovina,1,0
+3406,0,Gibraltar,1,0
+3407,0,New Caledonian Islands,1,0
+3408,0,Wallis and Futuna Islands,1,0
+3409,0,Jersey,1,0
+3410,0,Montenegro,1,0
+3411,0,British Isle of Man,1,0
+3412,0,Nigeria,1,0
+3413,0,Cameroon,1,0
+3414,0,Gabon,1,0
+3415,0,Chad,1,0
+3416,0,Republic of Congo,1,0
+3417,0,Central African Republic,1,0
+3418,0,South Sudan,1,0
+3419,0,Equatorial Guinea,1,0
+3420,0,Mauritania,1,0
+3421,0,Democratic Republic of the Congo,1,0
+3422,0,Reunion Island,1,0
+3423,0,Greenland,1,0
+3424,0,Faroe Islands,1,0
+3425,0,Guernsey,1,0
+3426,3287,Autonomous Region directly under the county-level administrative division,3,830000
+3427,1712,Provincial and county-level administrative divisions,3,450000
+3428,1886,Provincial and county-level administrative divisions,3,430000
+3429,2766,Pu'er City,3,665000
+3430,2403,Provincial and county-level administrative divisions,3,570000
+3432,0,Bermuda Islands,1,0
+3433,0,Saint Pierre and Miquelon,1,0
+3434,0,French Saint-Martin,1,0
+3435,0,Oland Islands,1,0
+3436,0,Northern Mariana Islands,1,0
+3437,0,Curacao,1,0
+3438,0,Bonaire Island,1,0
+3439,0,Sint Maarten Island,1,0
+3440,0,Saint Barthélemy Island,1,0
+3441,0,Falkland Islands,1,0
+3442,0,Sao Tome and Príncipe,1,0
+3443,0,British Indian Ocean Territory,1,0
+3444,0,East Samoa,1,0
+3445,0,Norfolk Island,1,0
+3446,1886,Hubei Province,3,430000
+3447,1712,Henan Province directly under the county administrative division,3,450000
+3448,2403,Hainan Province,3,570000
+3449,3287,Xinjiang Uygur Autonomous Region Provincial and County-level Administrative Divisions,3,830000
+3450,3260,Ningxia Hui Autonomous Region,3,750000
+3451,673,Liaoning Province directly under the county-level administrative divisions,3,110000
+3452,2139,Guangdong Province directly under the county-level administrative division,3,518000
+3453,1131,Zhejiang Province,3,310000
+3454,786,Jilin Province is directly under the county-level administrative divisions,3,130000
+3455,1232,Anhui Province directly under the county-level administrative division,3,230000
+3456,2993,Shaanxi Province,3,710000
+3457,254,Hebei Province directly under the county-level administrative division,3,50000
+3458,1014,Jiangsu Province directly under the county-level administrative division,3,210000
+3459,853,Heilongjiang Provincial Provincial Administrative Division,3,150000
+3460,1447,Jiangxi Provincial Provincial Administrative Division,3,330000
+3461,2669,Guizhou Provincial Administrative Division,3,55000
+3462,2002,Hunan Provincial Administrative Division,3,423000

@@ -6,7 +6,6 @@
 *.log
 *.la
 *.so
-*.xdb
 *.iml
 META-INF/
 .DS_Store
@@ -14,10 +13,6 @@ META-INF/
 # Binary Files #
 *.jar
 !dbMaker-*.jar
-
-# ignore all xdb except the one in ./data/
-*.xdb
-!/data/*.xdb
 
 # Package Files #
 .settings/
